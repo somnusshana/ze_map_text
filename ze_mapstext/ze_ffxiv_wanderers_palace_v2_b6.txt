@@ -250,7 +250,7 @@
 	}
 	***A player picked up Summoner Shadow Flare***
 	{
-		"chi"		"**一位玩家拾取了暗影**"
+		"chi"		"**一位玩家拾取了暗之阴影**"
 	}
 	***Recast 60s***
 	{
@@ -258,7 +258,7 @@
 	}
 	***A player picked up Black Mage Flare***
 	{
-		"chi"		"**一位玩家拾取了耀斑**"
+		"chi"		"**一位玩家拾取了黑之耀斑**"
 	}
 	***Recast 45s***
 	{
@@ -266,7 +266,7 @@
 	}
 	***A player picked up Bird Armys Paeon***
 	{
-		"chi"		"**一位玩家拾取了无限弹药**"
+		"chi"		"**一位玩家拾取了军神之歌**"
 	}
 	***Recast 90s***
 	{
@@ -274,7 +274,7 @@
 	}
 	***A player picked up Paladin Shild Oath
 	{
-		"chi"		"**一位玩家拾取了骑士之盾**"
+		"chi"		"**一位玩家拾取了忠义之盾**"
 	}
 	***Recast 70s***
 	{
@@ -292,7 +292,7 @@
 	}
 	***A player picked up Mount Night Mare***
 	{
-		"chi"		"**一位玩家拾取了土**"
+		"chi"		"**一位玩家拾取了噩梦展开**"
 	}
 	***Recast 50s***
 	{
@@ -343,6 +343,7 @@
 	***30 seconds to Activate Escape Elevator***
 	{
 		"chi"		"**30秒后电梯启动**"
+		"DoorCountdown"		"30"
 	}
 	***3***
 	{
@@ -358,7 +359,7 @@
 	}
 	***Ravana Used Stop***
 	{
-		"chi"		"**人类行动已经停止**"
+		"chi"		"**极武神停止了你的动作**"
 	}
 	***STAGE CLEAR***
 	{
@@ -366,7 +367,7 @@
 	}
 	 ***Next Level:Heavens Ward***
 	{
-		"chi"		"**下一关：天堂之路**"
+		"chi"		"**下一关：苍穹之禁城**"
 	}
 	 ***Map made by Altima***
 	{
@@ -382,11 +383,11 @@
 	}
 	***Level:Heavens Ward***
 	{
-		"chi"		"**关卡：天堂之路**"
+		"chi"		"**关卡：苍穹之禁城**"
 	}
 	***A player picked up Summoner Shadow Flare***
 	{
-		"chi"		"**一位玩家拾取了暗影**"
+		"chi"		"**一位玩家拾取了暗之阴影**"
 	}
 	***Recast 60s***
 	{
@@ -394,7 +395,7 @@
 	}
 	***A player picked up Black Mage Flare***
 	{
-		"chi"		"**一位玩家拾取了耀斑**"
+		"chi"		"**一位玩家拾取了黑之耀斑**"
 	}
 	***Recast 45s***
 	{
@@ -402,7 +403,7 @@
 	}
 	***A player picked up Bird Armys Paeon***
 	{
-		"chi"		"**一位玩家拾取了无限弹药**"
+		"chi"		"**一位玩家拾取了军神之歌**"
 	}
 	***Recast 90s***
 	{
@@ -410,7 +411,7 @@
 	}
 	***A player picked up Paladin Shild Oath
 	{
-		"chi"		"**一位玩家拾取了骑士之盾**"
+		"chi"		"**一位玩家拾取了忠义之盾**"
 	}
 	***Recast 70s***
 	{
@@ -418,7 +419,7 @@
 	}
 	***A player picked up Mount Night Mare***
 	{
-		"chi"		"**一位玩家拾取了土**"
+		"chi"		"**一位玩家拾取了噩梦展开**"
 	}
 	***Recast 50s***
 	{
@@ -456,7 +457,7 @@
 	}
 	***A player picked up White Mage Benediction***
 	{
-		"chi"		"**一位玩家拾取了治疗**"
+		"chi"		"**一位玩家拾取了天之祝福**"
 	}
 	***Recast 90s***
 	{
@@ -472,7 +473,7 @@
 	}
 	***Akh Morn***
 	{
-		"chi"		"**地震**"
+		"chi"		"**死亡循环（此技能只在开场使用一次，250血满甲状态可以抵挡技能）**"
 	}
 	*** 3 ***
 	{
@@ -501,7 +502,7 @@
 	}
 	***Earth Shaker***
 	{
-		"chi"		"**撼地（站到中间不要被土撞到）**"
+		"chi"		"**撼地（站到中间不要被柱子撞到）**"
 		"ico"   "icon_fire"
 	}
 	***Bahamut Prime has casting now***
