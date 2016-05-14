@@ -135,37 +135,36 @@
 	{
 		"chi"		"**Boss房间的大门将于 5 秒后关闭！**不要站在房间内有红光的区域！**"
 	}
-	"## Boss Room Door Closed...Prepare for BATTLE ##"		"chi"
+	"## Boss Room Door Closed...Prepare for BATTLE ##"
+	{
+		"chi"		"**Boss房间的大门关闭！...准备战斗!** 拿出你们的手雷再出闪电时朝闪电丢去！**"
+	}
 	"## REAPER SPLITTER KILL IT ##"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死Boss -- 人头收割机**"
 	}
 	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
 	{
-		"chi"		"** **"
-	}
-	"##You Lost##"
-	{
-		"chi"		"** **"
+		"chi"		"**你们有 120 秒的时间在Boss的房间爆炸前杀死它！**"
 	}
 	"## Reaper Splitter Killed ESCAPE ##"
 	{
-		"chi"		"** **"
-	}
-	"## 15 Seconds to reach SafeZone ##"
-	{
-		"chi"		"** **"
+		"chi"		"**杀掉了Boss准备逃脱！**进入闪电！进入闪电后松开 W ，仔细看脚下的路！**"
 	}
 	"## Zombies will be released in 10 Seconds ##"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在 10 秒后解放！**"
+	}
+	"## 15 Seconds to reach SafeZone ##"
+	{
+		"chi"		"** 15 秒后处死Boss房间的所有玩家！** 注意防守僵尸！**"
 	}
 	"## 5 Seconds to reach SafeZone ##"
 	{
-		"chi"		"** **"
+		"chi"		"** 5 秒后处死Boss房间的所有玩家！** 将僵尸打到水下！**"
 	}
 	"## END GAME ##"
 	{
-		"chi"		"** **"
+		"chi"		"**游戏结束！**地图翻译 by 色狼领袖**"
 	}
 }
