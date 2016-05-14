@@ -1,0 +1,79 @@
+"Console_T"
+{
+	"** TAKE FRONT-LEFT DOOR **"
+	{
+		"chi"		"** **"
+	}
+	"** ROUTE ONE **"
+	{
+		"chi"		"** **"
+	}
+	"** VENTUS STAFF HAS BEEN PICKED UP **"
+	{
+		"chi"		"** **"
+	}
+	"** WE SECURED ROUTE ONE **"
+	{
+		"chi"		"** **"
+	}
+	">>>LETS GO ROUTE TWO<<<"
+	{
+		"chi"		"** **"
+	}
+	"** ROUTE TWO **"
+	{
+		"chi"		"** **"
+	}
+	"** TAKE FRONT-RIGHT DOOR **"
+	{
+		"chi"		"** **"
+	}
+	"** IGNIS AXE HAS BEEN PICKED UP **"
+	{
+		"chi"		"** **"
+	}
+	">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>TO HET OUT THIS LIBRARY<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>GOOD JOB!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>NOW TIME TO HOLD<<<"
+	{
+		"chi"		"** **"
+	}
+	"** TERRA AXE HAS BEEN PICKED UP **"
+	{
+		"chi"		"** **"
+	}
+	"** SANATIO STAFF HAS BEEN PICKED UP **"
+	{
+		"chi"		"** **"
+	}
+	"**IGNIS ZOMBIE INCOMING**"
+	{
+		"chi"		"** **"
+	}
+	"**GRACIES ZOMBIE INCOMING**"
+	{
+		"chi"		"** **"
+	}
+	"** WE SECURED ROUTE TWO **"
+	{
+		"chi"		"** **"
+	}
+	">>>GO TO ROUTE THREE<<<"
+	{
+		"chi"		"** **"
+	}
+	"** ROUTE THREE **"
+	{
+		"chi"		"** **"
+	}
+}

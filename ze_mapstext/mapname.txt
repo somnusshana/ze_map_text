@@ -672,7 +672,7 @@
 	{
 		"chi"		"瘦长鬼影"
 	}
-	"ze_surf_sahok_v1"
+	"ze_surf_sahok_v1_e5"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -824,19 +824,19 @@
 	{
 		"chi"		"最终幻想12：帕拉米娅"
 	}
-	"ze_christmas_b1_2"
+	"ze_christmas_b2_1"
 	{
 		"chi"		"圣诞节"
 	}
-	"ze_gris_a4_9_8"
+	"ze_gris_a5"
 	{
 		"chi"		"创世E"
 	}
-	"ze_Sit_Caelum_Paradisus_b6_2"
+	"ze_Sit_Caelum_Paradisus_b7"
 	{
 		"chi"		"雕刻天堂"
 	}
-	"ze_fapescape_rote_v1_1"
+	"ze_fapescape_rote_v1_2"
 	{
 		"chi"		"乐高大逃亡：噩梦陷阱"
 	}

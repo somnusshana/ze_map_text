@@ -148,4 +148,12 @@
 	{
 		"chi"		"** **"
 	}
+	"*** ZOMBIE ON THE PLANE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** INVALID VICTORY ***"
+	{
+		"chi"		"** **"
+	}
 }
