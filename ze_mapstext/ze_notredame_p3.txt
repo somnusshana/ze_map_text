@@ -2,7 +2,7 @@
 {
 	"###Map Made By Mononoke###"
 	{
-		"chi"		"** **"
+		"chi"		"### 地图制作 by Mononoke 地图翻译 by 色狼领袖 ###"
 	}
 	"###Press E to use items###"
 	{
@@ -24,7 +24,7 @@
 	}
 	"###Gutter Gate Open...Run!###"
 	{
-		"chi"		"### 排水沟开启...僵尸被传送！（记得在排水沟扔手雷） ###"
+		"chi"		"### 下水道开启...撤退！ ###（记得往下水道扔手雷）"
 	}
 	"### Viola Active: Super Boost 5s###"
 	{
@@ -32,7 +32,7 @@
 	}
 	"### Hunchback Active: Shotgun ###"
 	{
-		"chi"		"### 驼背者:散弹枪效果 ###"
+		"chi"		"### 驼背的人:散弹枪效果 ###"
 	}
 	"### Super Boost Active for 5 seconds ###"
 	{
@@ -45,6 +45,7 @@
 	"###Wine Cellar Door will Close in 30 Seconds...Survive###"
 	{
 		"chi"		"### 酒窖的门将在 30 秒后关闭...防守 ###（注意密道的僵尸）"
+                "DoorCountdown"		"30"
 	}
 	"###Cellar Door Open...Run!###"
 	{
@@ -65,15 +66,15 @@
 	}
 	"### Undead Priest Active: Flame Thrower###"
 	{
-		"chi"		"### 亡灵牧师： 可以喷射火焰###"
+		"chi"		"### 亡灵牧师： 可以喷射火焰 ###"
 	}
 	"### Flame On ###"
 	{
-		"chi"		"### 火焰喷射 ###"
+		"chi"		"### 喷射火焰 ###"
 	}
 	"### Flame Charged ##"
 	{
-		"chi"		"### 火焰燃料填充完毕 ###"
+		"chi"		"### 喷火器燃料填充完毕 ###"
 	}
 	"###Quickly run into the Crypt ###"
 	{
@@ -85,12 +86,12 @@
 	}
 	"### Defend here for 15 Seconds! Make sure you are behind the red line! ### "
 	{
-		"chi"		"### 在这里守住 15 秒！确保你是在红线后面！###"
+		"chi"		"### 在这里坚守 15 秒！确保你现在身处红线后面！###"
 		"DoorCountdown"		"15"
 	}
 	"### You cannot Destroy the Great Jack HaHa Face Your Doom ### "
 	{
-		"chi"		"### 你没法杀死伟大的杰克！哈哈，好好面对你的厄运吧！ ###"
+		"chi"		"### 你没法杀死伟大的杰克！哈哈，迎接灭亡吧！ ###"
 	}
 	"### Kill Jack within two minutes or face instant death ### "
 	{
@@ -114,12 +115,12 @@
 	}
 	"###Trap Door Closes in 30 seconds###"
 	{
-		"chi"		"## #通往塔顶的大门将在 30 秒后关闭！ ###"
+		"chi"		"### 通往塔顶的大门将在 30 秒后关闭！ ###"
 		"DoorCountdown"		"30"
 	}
 	"###This is the last stand! Fight for your life###"
 	{
-		"chi"		"### 这是最后的防守点了！为了你的生命奋斗吧！ ###（开枪防守不要让僵尸上去）"
+		"chi"		"### 这是最后的防守点了！为了明天美好的生活奋斗吧！ ###（开枪防守不要让僵尸上去）"
 	}
 	"###You Survived! Well Done!###"
 	{
@@ -131,22 +132,23 @@
 	}
 	"### Defend here for 15 Seconds! Make sure you are behind the red line! ###"
 	{
-		"chi"		"** **"
+		"chi"		"### 在这里坚守 15 秒！确保你现在身处红线后面！###"
+		"DoorCountdown"		"15"
 	}
 	"### You cannot Destroy the Great Jack HaHa Face Your Doom ###"
 	{
-		"chi"		"** **"
+		"chi"		"### 你没法杀死伟大的杰克！哈哈，迎接灭亡吧！ ###"
 	}
 	"### Kill Jack within two minutes or face instant death ###"
 	{
-		"chi"		"** **"
+		"chi"		"### 请在 2 分钟内杀死杰克，否则你们将被处死 ###"
 	}
 	"### Time is Up! ###"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间到！ **"
 	}
 	"### Flame Charged ###"
 	{
-		"chi"		"** **"
+		"chi"		"### 喷火器燃料填充完毕 ###"
 	}
 }
