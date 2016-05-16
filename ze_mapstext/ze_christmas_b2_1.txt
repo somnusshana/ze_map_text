@@ -1,46 +1,126 @@
 "Console_T"
 {
-	">> Map by Taskuvaras  Fixed with Moltard <<"
+	"***Elevator doors closing in 5 seconds***"
 	{
 		"chi"		"** **"
 	}
-	">> LEVEL: 1 <<"
+	"***Hold for 5 seconds***"
 	{
 		"chi"		"** **"
 	}
-	"110 Cat Found"
+	"***Hold for 10 seconds***"
 	{
 		"chi"		"** **"
 	}
-	">> PLAYER HAS PICKED UP GRAVITY <<"
+	"***Doors closing in 30 seconds***"
 	{
 		"chi"		"** **"
 	}
-	"210 Cat Found"
+	"***ZOMBIES IN SAFE ZONE!!!***"
 	{
 		"chi"		"** **"
 	}
-	"***Door opening in 20 seconds***"
+	"***KILL THEM TO COMPLETE LEVEL***"
 	{
 		"chi"		"** **"
 	}
-	"***Hold here for 10 seconds***"
+	">> LEVEL: 2 <<"
 	{
 		"chi"		"** **"
 	}
-	"310 Cat Found"
+	"**Sleigh leaving in 5 seconds**"
 	{
 		"chi"		"** **"
 	}
-	"410 Cat Found"
+	"***Elevator leaving in 20 seconds***"
 	{
 		"chi"		"** **"
 	}
-	"***The train is stuck and wont start***"
+	"***5 seconds left***"
 	{
 		"chi"		"** **"
 	}
-	"***Take the left path***"
+	"***Station Doors will open in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Station Doors are open***"
+	{
+		"chi"		"** **"
+	}
+	"***The train is blocking the path***"
+	{
+		"chi"		"** **"
+	}
+	"***We need to blow it up***"
+	{
+		"chi"		"** **"
+	}
+	"***Plant the c4 on each side of the train by pressing E ***"
+	{
+		"chi"		"** **"
+	}
+	"***C4 is planted***"
+	{
+		"chi"		"** **"
+	}
+	"***It should explode soon***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"**Level completed**"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: 3 <<"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR IS OPEN! GET INSIDE!!***"
+	{
+		"chi"		"** **"
+	}
+	">> CROSS THE ACID POOL <<"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator leaving in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 5seconds***"
+	{
+		"chi"		"** **"
+	}
+	">>NYAN CAT ADDED<<"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator doors closing in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"**Sleigh leaving in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Sleigh leaving in 10 seconds**"
 	{
 		"chi"		"** **"
 	}
@@ -60,6 +140,10 @@
 	{
 		"chi"		"** **"
 	}
+	"510 Cat Found"
+	{
+		"chi"		"** **"
+	}
 	"***Exit Door will open in 20 seconds***"
 	{
 		"chi"		"** **"
@@ -72,7 +156,7 @@
 	{
 		"chi"		"** **"
 	}
-	"510 Cat Found"
+	"610 Cat Found"
 	{
 		"chi"		"** **"
 	}
@@ -80,19 +164,11 @@
 	{
 		"chi"		"** **"
 	}
-	"***Defend for 10 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"610 Cat Found"
+	"710 Cat Found"
 	{
 		"chi"		"** **"
 	}
 	"***Defend few seconds***"
-	{
-		"chi"		"** **"
-	}
-	"710 Cat Found"
 	{
 		"chi"		"** **"
 	}

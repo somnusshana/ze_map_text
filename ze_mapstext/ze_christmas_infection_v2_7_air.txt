@@ -284,4 +284,96 @@
 	{
 		"chi"		"** **"
 	}
+	"** CURRENT LEVEL: APOCALYPSE **"
+	{
+		"chi"		"** **"
+	}
+	"** The way is locked! Open the doors pressing the buttons at the control area! **"
+	{
+		"chi"		"** **"
+	}
+	"** Systems activated! Doors opening in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold! The doors will open in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** The core is being deactivated... **"
+	{
+		"chi"		"** **"
+	}
+	"** The core has become unstable! The reactor will explode!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** We need to get into the safety bunker! Resist until the doors open!!! **"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The door has locked! We need to resist until it keeps moving! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALMOST THERE! KEEP DEFENDING!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **"
+	{
+		"chi"		"** **"
+	}
+	"** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **"
+	{
+		"chi"		"** **"
+	}
+	"** Survive for 4 minutes to get to the vote level! **"
+	{
+		"chi"		"** **"
+	}
+	"** Only humans will be able to vote! **"
+	{
+		"chi"		"** **"
+	}
+	"** Two minutes left! RESIST! **"
+	{
+		"chi"		"** **"
+	}
+	"** Just one minute! Keep it up! **"
+	{
+		"chi"		"** **"
+	}
+	"** LAST 30 SECONDS! HOLD THE LAST BIT! **"
+	{
+		"chi"		"** **"
+	}
+	"** 15 SECONDS!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! 5 SECONDS!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Well done! Vote for the level you want to play! **"
+	{
+		"chi"		"** **"
+	}
+	"** If after 30 seconds no level has been selected the nuke will activate! **"
+	{
+		"chi"		"** **"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE EASY! **"
+	{
+		"chi"		"** **"
+	}
+	"** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
+	{
+		"chi"		"** **"
+	}
 }

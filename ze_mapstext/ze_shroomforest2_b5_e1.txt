@@ -680,4 +680,12 @@
 	{
 		"chi"		"** **"
 	}
+	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
+	{
+		"chi"		"** **"
+	}
 }

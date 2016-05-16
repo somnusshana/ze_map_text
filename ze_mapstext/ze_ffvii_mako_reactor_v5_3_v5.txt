@@ -221,7 +221,7 @@
 	}
 	"** Door is opening in 7 seconds **"
 	{
-		"chi"		"**门将在7S后打开（小心！！！）**"
+		"chi"		"**大厅门将在7S后打开**"
 	}
 	"** EXPLOSION IN 130 SECONDS **"
 	{
@@ -307,7 +307,6 @@
 	{
 		"chi"		"**唔。。。你要死啦！！！**"
 	}
-
 	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
 	{
 		"chi"		"**巴哈姆特即将释放红终！！继续开火！！！**"

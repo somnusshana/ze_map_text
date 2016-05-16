@@ -432,4 +432,32 @@
 	{
 		"chi"		"** **"
 	}
+	"***Recast 55s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Paladin Shield Oath"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 80s***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:Savage set***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position to 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***LASER***"
+	{
+		"chi"		"** **"
+	}
+	"***The Wanderers Palace Clear to 10 seconds***"
+	{
+		"chi"		"** **"
+	}
 }
