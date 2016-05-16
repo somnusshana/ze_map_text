@@ -360,7 +360,7 @@
 	}
 	"***40 seconds to Activate Telepoter"
 	{
-		"chi"		"**电梯40秒后启动**"
+		"chi"		"**40秒后激活传送点**"
 		"DoorCountdown"		"40"
 	}
 	"***A player picked up White Mage Benediction***"
