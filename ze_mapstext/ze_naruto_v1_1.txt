@@ -34,7 +34,7 @@
 	}
 	"** Naruto will open the way ! Follow him ! **"
 	{
-		"chi"		"**火影忍者将打开!跟着他! **"
+		"chi"		"**火影忍者将出现!跟着他! **"
 	}
 	"** HOLD THIS POSTION **"
 	{
@@ -47,10 +47,12 @@
 	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"** 还剩20秒**"
+		"DoorCountdown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
-		"chi"		"**洞穴将于20秒后开放！ **"
+		"chi"		"**洞穴路将于20秒后开放！ **"
+		"DoorCountdown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
@@ -62,7 +64,7 @@
 	}
 	"** Cave way will open in 10s ! **"
 	{
-		"chi"		"**洞穴将于10秒后开放！ **"
+		"chi"		"**洞穴路将于10秒后开放！ **"
 	}
 	"** 5 SECONDS LEFT **"
 	{
@@ -87,6 +89,7 @@
 	"** 20 SECOND LEFT **"
 	{
 		"chi"		"**还剩20秒 **"
+		"DoorCountdown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
@@ -123,6 +126,7 @@
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
 		"chi"		"**门将在10秒后打开 **"
+		"DoorCountdown"		"10"
 	}
 	"** DOOR WILL OPEN IN 5 SECONDS **"
 	{
@@ -131,6 +135,7 @@
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
 		"chi"		"**你需要保卫城镇45s **"
+		"DoorCountdown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
@@ -218,7 +223,7 @@
 	}
 	"** KILL HIM BEFORE NARUTO USE HIS ATTACK **"
 	{
-		"chi"		"**鸣人用他的攻击杀死了佐助 **"
+		"chi"		"**鸣人用他的攻击打败了佐助 **"
 	}
 	"** YOU DID IT !!! YOU DEFETEAD SASUKE **"
 	{
