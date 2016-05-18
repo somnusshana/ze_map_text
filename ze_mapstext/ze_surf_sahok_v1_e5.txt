@@ -48,4 +48,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Congratulations!***"
+	{
+		"chi"		"** **"
+	}
+	"***Map fixed by Et3rnity***"
+	{
+		"chi"		"** **"
+	}
 }

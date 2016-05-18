@@ -135,7 +135,7 @@
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
-		chi"		"**门将于25秒后打开**""
+		"chi"		"		"
 		"DoorCountdown"		"25"
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
@@ -277,5 +277,13 @@
 	">>>BACK TO ROOT ONE<<<"
 	{
 		"chi"		"**返回第一关 **"
+	}
+	"**GRACIES ZOMBIE INCOMING**"
+	{
+		"chi"		"** **"
+	}
+	"**IGNIS ZOMBIE INCOMING**"
+	{
+		"chi"		"** **"
 	}
 }

@@ -47,8 +47,8 @@
 	"** TRAM 1 WILL LEAVE IN 30 SECONDS **"
 	{
 		"chi"		"**一号电车将会在30秒后离开**"
-		"DoorCountDown" "30"
-		"ico" "icon_tip"
+		"DoorCountdown"		"30"
+		"ico"		"icon_tip"
 	}
 	"** EVERYBODY COVER TRAM 1 **"
 	{
@@ -81,8 +81,8 @@
 	"** THE ELEVATOR IS LEAVING IN 30 SECONDS **"
 	{
 		"chi"		"**电梯将会在30秒后启动**"
-		"DoorCountDown" "30"
-		"ico" "icon_tip"
+		"DoorCountdown"		"30"
+		"ico"		"icon_tip"
 	}
 	"** THE ELEVATOR IS LEAVING IN 20 SECONDS **"
 	{
@@ -175,8 +175,8 @@
 	"** THE TRAIN WILL LEAVE IN 50 SECONDS **"
 	{
 		"chi"		"**火车将在50秒后离开**"
-		"DoorCountDown" "50"
-		"ico" "icon_tip"
+		"DoorCountdown"		"50"
+		"ico"		"icon_tip"
 	}
 	"** THE TRAIN WILL LEAVE IN 40 SECONDS **"
 	{
@@ -273,8 +273,8 @@
 	"** TRAM 2 WILL LEAVE IN 30 SECONDS **"
 	{
 		"chi"		"**二号电车将会在30秒后离开**"
-		"DoorCountDown" "30"
-		"ico" "icon_tip"
+		"DoorCountdown"		"30"
+		"ico"		"icon_tip"
 	}
 	"** EVERYBODY COVER TRAM 2 **"
 	{
@@ -331,8 +331,8 @@
 	"** NUKE ACTIVATED ** DEFEND THE PYRAMID FOR 40 SECONDS **"
 	{
 		"chi"		"**核弹已激活，防守金字塔40秒**"
-		"DoorCountDown" "40"
-		"ico" "icon_tip"
+		"DoorCountdown"		"40"
+		"ico"		"icon_tip"
 	}
 	"** NUKE WILL BE DROPPED IN 30 SECONDS **"
 	{
@@ -373,8 +373,8 @@
 	"** TRAM 1 AND 2 WILL LEAVE IN 30 SECONDS **"
 	{
 		"chi"		"**一号、二号电车将会在30秒后同时离开**"
-		"DoorCountDown" "30"
-		"ico" "icon_tip"
+		"DoorCountdown"		"30"
+		"ico"		"icon_tip"
 	}
 	"** EVERYBODY COVER TRAM 1 AND 2 **"
 	{
@@ -399,7 +399,7 @@
 	"** THE TELEPORTER WILL BE ACTIVATED IN 40 SECONDS **"
 	{
 		"chi"		"**传送门将会在40秒后打开**"
-		"DoorCountDown" "40"
+		"DoorCountdown"		"40"
 	}
 	"** MINI NUKE HAS BEEN PICKED UP **"
 	{
@@ -440,8 +440,8 @@
 	"** FLYING PLATE WILL RAISE UP IN 40 SECONDS **"
 	{
 		"chi"		"**飞行板块将会在40秒后飞起**"
-		"DoorCountDown" "40"
-		"ico" "icon_tip"
+		"DoorCountdown"		"40"
+		"ico"		"icon_tip"
 	}
 	"** FLYING PLATE WILL RAISE UP IN 20 SECONDS **"
 	{
@@ -542,7 +542,7 @@
 	"** PELICAN WILL LEAVE IN 50 SECONDS **"
 	{
 		"chi"		"**坚守50秒**"
-		"DoorCountDown" "50"
+		"DoorCountdown"		"50"
 	}
 	"** PELICAN WILL LEAVE IN 30 SECONDS **"
 	{
@@ -595,5 +595,49 @@
 	"** EXTREME MODE FAILED ** RESTARTING **"
 	{
 		"chi"		"**极限难度失败，再来一局**"
+	}
+	"** GODMODE COMPLETE ** IMPOSSIBLE MODE UNLOCKED **"
+	{
+		"chi"		"** **"
+	}
+	"** CURRENT: IMPOSSIBLE MODE **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: HYBRID - MARRAKECH **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 15 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 ARE BROKEN ** FALL BACK **"
+	{
+		"chi"		"** **"
+	}
+	"** EXORATH IS TAKEN HIS FINAL REVENGE ** BE PREPARED FOR A FIGHT **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: DEUS EX OST - SARIF BATTLE THEME **"
+	{
+		"chi"		"** **"
+	}
+	"** SOMETHING WENT WRONG ** ACTIVATING MASSIVE NUKE **"
+	{
+		"chi"		"** **"
 	}
 }

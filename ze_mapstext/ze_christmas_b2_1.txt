@@ -172,4 +172,48 @@
 	{
 		"chi"		"** **"
 	}
+	">> Map by Taskuvaras  Fixed with Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: 1 <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		"** **"
+	}
+	"***Door opening in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"110 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***The train is stuck and wont start***"
+	{
+		"chi"		"** **"
+	}
+	"***Take the left path***"
+	{
+		"chi"		"** **"
+	}
+	"210 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"310 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"410 Cat Found"
+	{
+		"chi"		"** **"
+	}
 }

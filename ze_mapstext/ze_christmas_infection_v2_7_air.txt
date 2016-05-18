@@ -376,4 +376,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **"
+	{
+		"chi"		"** **"
+	}
 }

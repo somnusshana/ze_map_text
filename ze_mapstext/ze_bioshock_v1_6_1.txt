@@ -23,7 +23,7 @@
 	"***ETA: 30 seconds!***"
 	{
 		"chi"		"** 倒计时：30 秒！ **"
-                "DoorCountdown"                "30"
+		"DoorCountdown"		"30"
 	}
 	"***Bathysphere docking...***"
 	{
@@ -61,10 +61,10 @@
 	{
 		"chi"		"** 移接人（僵尸）成功劫持了大门！人类快跑！**"
 	}
-	"***HOLD FOR 20 seconds***"
+	"***Hold for 20 seconds***"
 	{
 		"chi"		"** 守住 20 秒 **"
-                "DoorCountdown"                "20"
+		"DoorCountdown"		"20"
 	}
 	"***ATLAS: The door is open. Get going!***"
 	{
@@ -97,7 +97,7 @@
 	"***Elevator 1 leaving in 5 seconds***"
 	{
 		"chi"		"** 1 号电梯将在 5 秒后离开 **"
-                "DoorCountdown"                "5"
+		"DoorCountdown"		"5"
 	}
 	"***Plasmid: Incinerate Obtained***"
 	{
@@ -162,11 +162,11 @@
 	"***Elevator leaving in 15 seconds***"
 	{
 		"chi"		"** 电梯将在 15 秒后离开 **"
-                "DoorCountdown"                "15"
+		"DoorCountdown"		"15"
 	}
-	"***ELEVATOR LEAVING IN 5 seconds***"
+	"***Elevator leaving in 5 seconds***"
 	{
-		"chi"		"** 电梯将在 5 秒后离开 **"（上去后找个地方守到僵尸传送）
+		"chi"		"** 电梯将在 5 秒后离开 **"
 	}
 	"***ATLAS: Exit is open. Would you kindly get outta here while you can!***"
 	{
@@ -195,7 +195,7 @@
 	"***Elevator to Atlas Storage Area leaving in 8 seconds***"
 	{
 		"chi"		"** 电梯将在 8 秒后离开 **"
-                "DoorCountdown"                "8"
+		"DoorCountdown"		"8"
 	}
 	"***ATLAS: They're right behind you!***"
 	{
@@ -208,7 +208,7 @@
 	"***Door opens in 20 seconds***"
 	{
 		"chi"		"** 门将在 20 秒后打开 **（守住前面的木板）"
-                "DoorCountdown"                "20"
+		"DoorCountdown"		"20"
 	}
 	"***Door now open. Retreat!***"
 	{
@@ -249,7 +249,7 @@
 	"***Door opening in 30 seconds***"
 	{
 		"chi"		"** 等待 30 秒开启大门**"
-                "DoorCountdown"                "30"
+		"DoorCountdown"		"30"
 	}
 	"***ATLAS: Security door is open!***"
 	{
@@ -270,7 +270,7 @@
 	"***ATLAS: Nearly there.. (10 seconds)***"
 	{
 		"chi"		"** Atlas：就快了..（ 10 秒）**"
-                "DoorCountdown"                "10"
+		"DoorCountdown"		"10"
 	}
 	"***ATLAS: That got it! Would you kindly get moving again?!***"
 	{
@@ -287,7 +287,7 @@
 	"***Rapture Metro is leaving in 5 seconds!***"
 	{
 		"chi"		"** 销魂城号地铁将在 5 秒后离开！ **"
-                "DoorCountdown"                "5"
+		"DoorCountdown"		"5"
 	}
 	"***Rapture Metro is leaving!***"
 	{
@@ -337,7 +337,7 @@
 	"***30 seconds left to build the bomb***"
 	{
 		"chi"		"** 建造炸弹时限 30 秒倒计时 **"
-                "DoorCountdown"                "30"
+		"DoorCountdown"		"30"
 	}
 	"*R-34 Fuse 1 of 3 added*"
 	{
@@ -422,7 +422,7 @@
 	"***Rapture Control: Elevator leaving in 15 seconds***"
 	{
 		"chi"		"** 销魂城管理：电梯将在 15 秒后离开 **"
-                "DoorCountdown"                "15"
+		"DoorCountdown"		"15"
 	}
 	"*Splicers freed*"
 	{
@@ -439,7 +439,7 @@
 	"***This is it! Defend the bathysphere for 40 seconds***"
 	{
 		"chi"		"** 保护潜水装置 40 秒 **"
-                "DoorCountdown"                "40"
+		"DoorCountdown"		"40"
 	}
 	"***Get back! Its time to get out of here***"
 	{
@@ -488,5 +488,29 @@
 	"***ATLAS: This place has gone to shit. I can get you out of here so long as you do as I say***"
 	{
 		"chi"		"** Atlas：这个地方非常糟糕.但是不用担心，因为我可以让你们离开这里，只要你们要照我说的去做 **"
+	}
+	"***ATLAS: Would you kindly call the Rapture Metro! Its time you got outta here"
+	{
+		"chi"		"** **"
+	}
+	"***ATLAS: Nice job boyo! Weve got a long way to go yet though***"
+	{
+		"chi"		"** **"
+	}
+	"***Defence 85 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***GO GO GO***"
+	{
+		"chi"		"** **"
+	}
+	"***ATLAS: Theyre right behind you!***"
+	{
+		"chi"		"** **"
 	}
 }
