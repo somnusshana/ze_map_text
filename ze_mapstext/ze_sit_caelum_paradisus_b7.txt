@@ -1,138 +1,151 @@
 "Console_T"
 {
-	"** TAKE LEFT DOOR **"
+	"** TAKE FRONT-LEFT DOOR **"
 	{
-		"chi"		"**◊ﬂ◊Û±ﬂµƒ√≈ **"
+		"chi"		"**Ëµ∞Â∑¶ÂâçÊñπÁöÑÈó® **"
 	}
 	"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
 	{
-		"chi"		"**Ω¯»Î¥ÛÃ¸µƒ÷–—Î»•ƒ√…Ò∆˜£®ƒ√¡À…Ò∆˜æÕ∏œΩÙœ¬»•£© **"
+		"chi"		"**ËøõÂÖ•Â§ßÂéÖÁöÑ‰∏≠Â§ÆÂéªÊãøÁ•ûÂô®ÔºàÊãø‰∫ÜÁ•ûÂô®Â∞±Ëµ∂Á¥ß‰∏ãÂéªÔºâ **"
 	}
-	"** TRY TO USE THEM **"
+	" ** TRY TO USE THEM **"
 	{
-		"chi"		"** ‘◊≈ π”√À¸√« **"
+		"chi"		"**ËØïÁùÄ‰ΩøÁî®ÂÆÉ‰ª¨ **"
 	}
 	"** ZE_SIT_CAELUM_PARADISUS **"
 	{
-		"chi"		"** **"
+		"chi"		"**Âú∞ÂõæÔºöÈõïÂàªÂ§©Â†Ç ÊñáÊú¨‰øÆÂ§çÔºöÊØîÈÇ£ÂêçÂ±ÖÂ§©Â≠ê**"
 	}
-	"** ROOT ONE **"
+	"** ROUTE ONE **"
 	{
-		"chi"		"**µ⁄“ªπÿ **"
+		"chi"		"**Á¨¨‰∏ÄÂÖ≥ **"
 	}
-	"** VENTUS SWORD HAS BEEN PICKED UP >WIND<**"
+	"** SANATIO STAFF HAS BEEN PICKED UP **"
 	{
-		"chi"		"**ÕÊº““—æ≠ƒ√∆>∑Á< **"
+		"chi"		"**Áé©ÂÆ∂Â∑≤ÁªèÊãøËµ∑>Ê≤ªÁñó+ÂºπËçØ< **"
 	}
-	"** SANATIO SWORD HAS BEEN PICKED UP >HEAL AMMO< **"
+	"** VENTUS STAFF HAS BEEN PICKED UP **"
 	{
-		"chi"		"**ÕÊº““—æ≠ƒ√∆>÷Œ¡∆+µØ“©< **"
+		"chi"		"**Áé©ÂÆ∂Â∑≤ÁªèÊãøËµ∑>È£é< **"
 	}
-	"** GRACIES AXE HAS BEEN PICKED UP >ICE<**"
+	"** IGNIS AXE HAS BEEN PICKED UP **"
 	{
-		"chi"		"**ÕÊº““—æ≠ƒ√∆>±˘< **"
+		"chi"		"**Áé©ÂÆ∂Â∑≤ÁªèÊãøËµ∑>ÁÅ´< **"
 	}
-	"** IGNIS SWORD HAS BEEN PICKED UP >FIRE<**"
+	"** TERRA AXE HAS BEEN PICKED UP **"
 	{
-		"chi"		"**ÕÊº““—æ≠ƒ√∆>ª< **"
-	}
-	"** TERRA JAVELIN HAS BEEN PICKED UP >WALL< **"
-	{
-		"chi"		"**ÕÊº““—æ≠ƒ√∆>«Ω< **"
+		"chi"		"**Áé©ÂÆ∂Â∑≤ÁªèÊãøËµ∑>Â¢ô< **"
 	}
 	">>>DOOR BREAKING IN 20 SECS<<<"
 	{
-		"chi"		"**√≈Ω´”⁄20√Î∫Û¥Úø™ **"
+		"chi"		"**Èó®Â∞Ü‰∫é20ÁßíÂêéÊâìÂºÄ **"
 		"DoorCountdown"		"20"
 	}
 	">>>HOLD<<<"
 	{
-		"chi"		"** ÿ◊° **"
+		"chi"		"**ÂÆà‰Ωè**"
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
-		"chi"		"**√≈Ω´”⁄25√Î∫Û¥Úø™ **"
+		"chi"		"**Èó®Â∞Ü‰∫é25ÁßíÂêéÊâìÂºÄ **"
 		"DoorCountdown"		"25"
 	}
 	">>>HHOOLLDD<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**ÂÆà‰Ωè**"
 	}
 	">>>HOLDDDD<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**ÂÆà‰Ωè**"
 	}
 	">>>DOOR BREAKING IN 30 SECS<<<"
 	{
-		"chi"		"**√≈Ω´”⁄30√Î∫Û¥Úø™ **"
+		"chi"		"**Èó®Â∞Ü‰∫é30ÁßíÂêéÊâìÂºÄ **"
 		"DoorCountdown"		"30"
 	}
 	">>>DOOR BREAKING IN 15 SECS<<<"
 	{
-		"chi"		"**√≈Ω´”⁄15√Î∫Û¥Úø™ **"
+		"chi"		"**Èó®Â∞Ü‰∫é15ÁßíÂêéÊâìÂºÄ **"
 		"DoorCountdown"		"15"
 	}
 	">>>DOOR OPENING 20 SECS<<<"
 	{
-		"chi"		"**√≈Ω´”⁄20√Î∫Û¥Úø™ **"
+		"chi"		"**Èó®Â∞Ü‰∫é20ÁßíÂêéÊâìÂºÄ **"
 		"DoorCountdown"		"20"
 	}
 	">>>DOOR OPENING IN 35 SECS<<<"
 	{
-		"chi"		"**√≈Ω´”⁄35√Î∫Û¥Úø™ **"
+		"chi"		"**Èó®Â∞Ü‰∫é35ÁßíÂêéÊâìÂºÄ **"
 		"DoorCountdown"		"35"
 	}
 	">>>LAST HOLD 15 SECS<<<"
 	{
-		"chi"		"**◊Ó∫Û ÿ◊°15√Î**"
+		"chi"		"**ÊúÄÂêéÂÆà‰Ωè15Áßí**"
 		"DoorCountdown"		"15"
 	}
 	">>>WAIT FOR TELEPORT<<<"
 	{
-		"chi"		"**µ»¥˝¥´ÀÕ**"
+		"chi"		"**Á≠âÂæÖ‰º†ÈÄÅ**"
 	}
-	"** WE SECURED ROOT ONE **"
+	"** WE SECURED ROUTE ONE **"
 	{
-		"chi"		"**Œ“√«ÕÍ≥…¡Àµ⁄“ªπÿ**"
+		"chi"		"**Êàë‰ª¨ÂÆåÊàê‰∫ÜÁ¨¨‰∏ÄÂÖ≥**"
 	}
-	">>>LETS GO ROOT TWO<<<"
+	">>>LETS GO ROUTE TWO<<<"
 	{
-		"chi"		"**Ω¯»Îµ⁄∂˛πÿ**"
+		"chi"		"**ËøõÂÖ•Á¨¨‰∫åÂÖ≥**"
 	}
 	"*** MAP BY SATOKA***"
 	{
-		"chi"		"**µÿÕº◊˜’ﬂ£∫SATOKA**"
+		"chi"		"**Âú∞Âõæ‰ΩúËÄÖÔºöSATOKA**"
 	}
-	"** ROOT TWO **"
+	"** ROUTE TWO **"
 	{
-		"chi"		"**µ⁄∂˛πÿ**"
+		"chi"		"**Á¨¨‰∫åÂÖ≥**"
 	}
-	"** TAKE RIGHT DOOR **"
+	"** TAKE FRONT-RIGHT DOOR **"
 	{
-		"chi"		"**◊ﬂ”“±ﬂµƒ√≈**"
+		"chi"		"**Ëµ∞Âè≥ÂâçÊñπÁöÑÈó®**"
 	}
 	">>>DOOR OPENING IN 20 SECS<<<"
 	{
-		"chi"		"**20√Î∫Û√≈ø™∆Ù**"
+		"chi"		"**20ÁßíÂêéÈó®ÂºÄÂêØ**"
 		"DoorCountdown"		"20"
 	}
-	">>>DOOR BREAKING IN 60 SECS<<<"
+	">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
 	{
-		"chi"		"**60√Î∫Û√≈∆∆ÀÈ**"
-		"DoorCountdown"		"60"
+		"chi"		"**Êàë‰ª¨ÂøÖÈ°ªÊâæÂà∞Âπ∂Êåâ‰∏ã‰∏â‰∏™ÈöêËóèÊåâÈíÆ**"
 	}
-	">>>HOLD THE LIBRARY<<<"
+	">>>TO HET OUT THIS LIBRARY<<<"
 	{
-		"chi"		"** ÿ◊°Õº Èπ›**"
+		"chi"		"**Ëµ∞Âá∫Ëøô‰∏™Âõæ‰π¶È¶Ü**"
+	}
+	">>>GOOD JOB!<<<"
+	{
+		"chi"		"**Âπ≤ÂæóÂ•Ω**"
+	}
+	">>>NOW TIME TO HOLD<<<"
+	{
+		"chi"		"**Áé∞Âú®ÁªßÁª≠Èò≤ÂÆà**"
 	}
 	">>>DOOR BREAKING IN 45 SECS<<<"
 	{
-		"chi"		"**45√Î∫Û√≈∆∆ÀÈ**"
+		"chi"		"**45ÁßíÂêéÈó®Á†¥Á¢é**"
 		"DoorCountdown"		"45"
+	}
+	">>>DOOR BREAKING IN 25 SECS<<<"
+	{
+		chi"		"**Èó®Â∞Ü‰∫é25ÁßíÂêéÊâìÂºÄ**""
+		"DoorCountdown"		"25"
+	}
+	">>>DOOR BREAKING IN 25 SECS<<<"
+	{
+		"chi"		"**Èó®Â∞Ü‰∫é25ÁßíÂêéÊâìÂºÄ**"
+		"DoorCountdown"		"25"
 	}
 	">>>DOOR BREAKING IN 50 SECS<<<"
 	{
-		"chi"		"**50√Î∫Û√≈∆∆ÀÈ**"
+		"chi"		"**50ÁßíÂêéÈó®Á†¥Á¢é**"
 		"DoorCountdown"		"50"
 	}
 	">>>RUN RUN RUN! <<<"
@@ -141,122 +154,128 @@
 	}
 	">>>GUARDIAN OF THE RUIN AHEAD <<<"
 	{
-		"chi"		"** ÿª§’ﬂ‘⁄∆∆«≈µƒ«∞∑Ω**"
+		"chi"		"**ÂÆàÊä§ËÄÖÂú®Á†¥Ê°•ÁöÑÂâçÊñπ**"
 	}
 	">>>EXTRA VENTUS ACTIVATED<<<"
 	{
-		"chi"		"**EXŒ¨∂˜ÕºÀπº§ªÓ**"
+		"chi"		"**EXÁª¥ÊÅ©ÂõæÊñØÊøÄÊ¥ª**"
 	}
 	">>>WELL DONE!<<<"
 	{
-		"chi"		"**Œ“√«◊ˆµΩ¡À£°**"
+		"chi"		"**Êàë‰ª¨ÂÅöÂà∞‰∫ÜÔºÅ**"
 	}
 	">>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
 	{
-		"chi"		"** ÿµΩ¥•∑¢¥´ÀÕ**"
+		"chi"		"**ÂÆàÂà∞Ëß¶Âèë‰º†ÈÄÅ**"
 	}
 	">>>DEFEND!!<<<"
 	{
-		"chi"		"**∑¿ ÿ!!**"
+		"chi"		"**Èò≤ÂÆà!!**"
 	}
-	"** WE SECURED ROOT TWO **"
+	"** WE SECURED ROUTE TWO **"
 	{
-		"chi"		"**Œ“√«ÕÍ≥…¡Àµ⁄∂˛πÿ**"
+		"chi"		"**Êàë‰ª¨ÂÆåÊàê‰∫ÜÁ¨¨‰∫åÂÖ≥**"
 	}
-	">>>GO TO ROOT THREE<<<"
+	">>>GO TO ROUTE THREE<<<"
 	{
-		"chi"		"**Ω¯»Îµ⁄»˝πÿ**"
+		"chi"		"**ËøõÂÖ•Á¨¨‰∏âÂÖ≥**"
 	}
-	"** ROOT THREE **"
+	"** ROUTE THREE **"
 	{
-		"chi"		"**µ⁄»˝πÿ**"
+		"chi"		"**Á¨¨‰∏âÂÖ≥**"
 	}
-	"** TAKE MIDDLE DOOR **"
+	"** TAKE LEFT DOOR **"
 	{
-		"chi"		"**◊ﬂ÷–º‰µƒ√≈**"
+		"chi"		"**Ëµ∞Â∑¶ËæπÁöÑÈó®**"
 	}
 	">> DOOR OPENING IN 30 SECS <<"
 	{
-		"chi"		"**30√Î∫Û√≈ø™∆Ù**"
+		"chi"		"**30ÁßíÂêéÈó®ÂºÄÂêØ**"
+		"DoorCountdown"		"30"
+	}
+	">> DOOR OPENING IN 30 SECS <<"
+	{
+		"chi"		"**30ÁßíÂêéÈó®ÂºÄÂêØ**"
 		"DoorCountdown"		"30"
 	}
 	">>> DOOR OPENING IN 40 SECS <<<"
 	{
-		"chi"		"**40√Î∫Û√≈ø™∆Ù**"
+		"chi"		"**40ÁßíÂêéÈó®ÂºÄÂêØ**"
 		"DoorCountdown"		"40"
 	}
 	">> DOOR OPENING IN 50 SECS <<"
 	{
-		"chi"		"**50√Î∫Û√≈ø™∆Ù**"
+		"chi"		"**50ÁßíÂêéÈó®ÂºÄÂêØ**"
 		"DoorCountdown"		"50"
 	}
 	">> DOOR OPENING IN 10 SECS <<"
 	{
-		"chi"		"**10√Î∫Û√≈ø™∆Ù**"
+		"chi"		"**10ÁßíÂêéÈó®ÂºÄÂêØ**"
 		"DoorCountdown"		"10"
 	}
 	"*** THE DRAGON NOTICED US ***"
 	{
-		"chi"		"**Œ“√«∑¢œ÷¡À¡˙**"
+		"chi"		"**ÈæôÊ≥®ÊÑèÂà∞‰∫ÜÊàë‰ª¨**"
 	}
 	">> KILL HIM!! <<"
 	{
-		"chi"		"**…±¡ÀÀ˚£°£°£°**"
+		"chi"		"**ÊùÄ‰∫Ü‰ªñÔºÅÔºÅÔºÅ**"
 	}
 	"*** IGNIS !!!***"
 	{
-		"chi"		"**ª£°£°£°**"
+		"chi"		"**ÁÅ´ÔºÅÔºÅÔºÅ**"
 	}
 	"*** IGNIS !!! ***"
 	{
-		"chi"		"**ª£°£°£°**"
+		"chi"		"**ÁÅ´ÔºÅÔºÅÔºÅ**"
 	}
 	"*** VENTUS !!! ***"
 	{
-		"chi"		"**∑Á£°£°£°**"
+		"chi"		"**È£éÔºÅÔºÅÔºÅ**"
 	}
 	"*** IGNIS WAVE !!! ***"
 	{
-		"chi"		"**ª«Ω£°£°£°**"
+		"chi"		"**ÁÅ´Â¢ôÔºÅÔºÅÔºÅ**"
 	}
 	"*** HEAL !!!***"
 	{
-		"chi"		"**÷Œ¡∆£°£°£°**"
+		"chi"		"**Ê≤ªÁñóÔºÅÔºÅÔºÅ**"
 	}
 	">>> NICELY DONE !! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Âπ≤ÂæóÂ•Ω**"
 	}
 	">>> NOW GET THE HELL OUT OF HERE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Áé∞Âú®Á¶ªÂºÄËøôÈáå **"
 	}
 	">>> RUN TO THE FINAL ROOM <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**ÂâçÂæÄÊúÄÂêéÁöÑÊàøÈó¥ **"
 	}
 	">>> AND DEFEND UNTIL TELEPORT <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Èò≤Âæ°Áõ¥Âà∞‰º†ÈÄÅÊøÄÊ¥ª **"
 	}
 	">>> 90 SECS LEFT !!! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**ËøòÊúâ90Áßí **"
 	}
 	">>> 30 SECS LEFT !!! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**ËøòÊúâ30Áßí **"
+		"DoorCountdown"		"30"
 	}
 	">>> 10 SECS LEFT !!! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**ËøòÊúâ10Áßí **"
 	}
-	"** WE SECURED ROOT THREE **"
+	"** WE SECURED ROUTE THREE **"
 	{
-		"chi"		"** **"
+		"chi"		"**Êàë‰ª¨ÂÆåÊàê‰∫ÜÁ¨¨‰∏âÂÖ≥ **"
 	}
 	">>>BACK TO ROOT ONE<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**ËøîÂõûÁ¨¨‰∏ÄÂÖ≥ **"
 	}
 }
