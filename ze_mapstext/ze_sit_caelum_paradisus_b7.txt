@@ -135,7 +135,7 @@
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
 	{
-		"chi"		"		"
+		"chi"		" 25秒后门破碎"
 		"DoorCountdown"		"25"
 	}
 	">>>DOOR BREAKING IN 25 SECS<<<"
@@ -150,7 +150,7 @@
 	}
 	">>>RUN RUN RUN! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**跑跑跑！**"
 	}
 	">>>GUARDIAN OF THE RUIN AHEAD <<<"
 	{
@@ -280,10 +280,10 @@
 	}
 	"**GRACIES ZOMBIE INCOMING**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸冰拾取**"
 	}
 	"**IGNIS ZOMBIE INCOMING**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸火拾取**"
 	}
 }
