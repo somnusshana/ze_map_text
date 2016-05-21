@@ -538,4 +538,12 @@
 	{
 		"chi"		"** **"
 	}
+	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	{
+		"chi"		"** **"
+	}
 }
