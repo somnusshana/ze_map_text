@@ -84,7 +84,7 @@
 	}
 	"***ATLAS: The Metro is upstairs. The stair or elevator will take you there***"
 	{
-		"chi"		"** Atlas：地铁在楼上.通过电梯或者楼梯可以到达上面 **"
+		"chi"		"** Atlas：地铁在楼上.通过坐电梯或者爬楼梯可以到达上面 **"
 	}
 	"***Elevator Called***"
 	{
@@ -117,7 +117,7 @@
 	}
 	"***ATLAS: I can override it.***"
 	{
-		"chi"		"** Atlas：我会将它初始化. **"
+		"chi"		"** Atlas：我会将解决这个问题.  **"
 	}
 	"***ATLAS: Would you kindly hold them off until then!***"
 	{
@@ -125,7 +125,7 @@
 	}
 	"***ATLAS: Its open! Get outta there boyo!***"
 	{
-		"chi"		"** Atlas：门开了！快离开这里，少年们！**"
+		"chi"		"** Atlas：门开了！快离开这里，小伙们！**"
 	}
 	"***Elevator 2 leaving in 7 seconds***"
 	{
@@ -141,7 +141,7 @@
 	}
 	"***Rapture Metro car inbound for the station!***"
 	{
-		"chi"		"** 销魂城号地铁即将进站！ **"
+		"chi"		"** 销魂城地铁即将进站！ **"
 	}
 	"***Its time to board to board the metro!***"
 	{
@@ -203,7 +203,7 @@
 	}
 	"***ATLAS: Would you kindly leave via an old lift to Arcadia!***"
 	{
-		"chi"		"** Atlas：现在请你们通过一个旧电梯离开这里，然后到达Arcadia！ **"
+		"chi"		"** Atlas：现在请你们通过一个旧电梯离开这里，然后到达阿卡迪亚花园！ **"
 	}
 	"***Door opens in 20 seconds***"
 	{
@@ -265,7 +265,7 @@
 	}
 	"***ATLAS: I can override it from here. Would you kindly take care of things at your end!***"
 	{
-		"chi"		"** Atlas：我可以改变这种情况.请照顾好你自己直到最后！ **"
+		"chi"		"** Atlas：我可以改变这种情况.但是在这之前先照顾好你自己！ **"
 	}
 	"***ATLAS: Nearly there.. (10 seconds)***"
 	{
@@ -278,20 +278,20 @@
 	}
 	"***Rapture Metro is refueling for departure!***"
 	{
-		"chi"		"** 销魂城号地铁正在加油中！ **"
+		"chi"		"** 销魂城地铁正在加油中！ **"
 	}
 	"***Rapture Metro is refueled and operational. Get aboard !***"
 	{
-		"chi"		"** 销魂城号地铁加油完毕.上车！ **"
+		"chi"		"** 销魂城地铁加油完毕.上车！ **"
 	}
 	"***Rapture Metro is leaving in 5 seconds!***"
 	{
-		"chi"		"** 销魂城号地铁将在 5 秒后离开！ **"
+		"chi"		"** 销魂城地铁将在 5 秒后离开！ **"
 		"DoorCountdown"		"5"
 	}
 	"***Rapture Metro is leaving!***"
 	{
-		"chi"		"** 销魂城号地铁正在驶离！ **"
+		"chi"		"** 销魂城地铁正在驶离！ **"
 	}
 	"***Impressive work! Lets move on!***"
 	{
@@ -299,8 +299,7 @@
 	}
 	"*ATLAS: We need  to overload the hephaestus core*"
 	{
-		"chi"		"** Atlas：我们需要过载赫菲斯托斯核心（hephaestus core）
-**"
+		"chi"		"** Atlas：现在我们需要炸毁赫菲斯托斯核心（hephaestus core）**"
 	}
 	"*ATLAS: In order to do that we need a bomb*"
 	{
@@ -409,11 +408,11 @@
 	}
 	"*Sympthetic Overload in Harmonic Core #3 Triggered*"
 	{
-		"chi"		"** 绝赞的触发赫菲斯托斯核心爆炸 **"
+		"chi"		"** 引爆赫菲斯托斯核心 **"
 	}
 	"*Nice work boyo. Now head on up to Ryan's office so we can meet in person*"
 	{
-		"chi"		"** 干的好少年们.现在，到瑞安的办公室，这样我们就可以见面了**"
+		"chi"		"** 干的好少年们.现在，到瑞安的办公室，这样我们就可以见面了 **"
 	}
 	"*Ryans Office is now unlocked*"
 	{
@@ -471,7 +470,7 @@
 	}
 	"***Survivor Difficulty Enabled***"
 	{
-		"chi"		"** 启动 Survivor难度**（小心紫色光圈）"
+		"chi"		"** 启动 Survivor难度**"
 	}
 	"***You have beaten ze_bioshock...***"
 	{
@@ -491,19 +490,19 @@
 	}
 	"***ATLAS: Would you kindly call the Rapture Metro! Its time you got outta here"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：快去呼叫地铁！然后离开这里. **"
 	}
 	"***ATLAS: Nice job boyo! Weve got a long way to go yet though***"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：干得好小伙子们！尽管我们还有一段漫长的路要走 **"
 	}
 	"***Defence 85 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 坚守 85 秒 **"
 	}
 	"***5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 还有 5 秒 **"
 	}
 	"***GO GO GO***"
 	{
@@ -511,6 +510,6 @@
 	}
 	"***ATLAS: Theyre right behind you!***"
 	{
-		"chi"		"** **"
+		"chi"		"** Atlas：它们就在你们后面！ **"
 	}
 }
