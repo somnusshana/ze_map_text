@@ -71,7 +71,7 @@
 	}
 	"***Gate opening in 75secs.***"
 	{
-		"chi"		"*****60秒后集装箱库房开门（虽然是个BUG）*****"
+		"chi"		"*****60秒后集装箱库房开门（原作者留下的BUG）*****"
 	}
 	"***Armory open.***"
 	{
@@ -113,7 +113,7 @@
 	}
 	"***3***"
 	{
-		"chi"		"冰盖逃脱v5 原作者RelaxingWalls（CS:S）"
+		"chi"		"ze_icecap_escape_v5 原作者RelaxingWalls（CS:S）"
 	}
 	"***2***"
 	{
