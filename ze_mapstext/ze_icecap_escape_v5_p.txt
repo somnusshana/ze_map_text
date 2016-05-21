@@ -71,7 +71,7 @@
 	}
 	"***Gate opening in 75secs.***"
 	{
-		"chi"		"*****60秒后集装箱库房开门*****"
+		"chi"		"*****60秒后集装箱库房开门（尽管可能是Bug）*****"
 	}
 	"***Armory open.***"
 	{
@@ -92,7 +92,7 @@
 	}
 	"***Gate opening in 5secs.***"
 	{
-		"chi"		"*****门早就开了（滑稽）*****"
+		"chi"		"*****门早就开了（虽然这可能是移植的Bug）*****"
 	}
 	"***Start up the Helicopter.***"
 	{
