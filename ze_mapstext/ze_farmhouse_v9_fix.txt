@@ -193,6 +193,7 @@
 	"*** THE TANK WILL AUTO DIE IN 60 SECONDS IF ITS NOT KILLED BY THE HUMANS!!! ***"
 	{
 		"chi"		"**60秒内未被人类击杀的话坦克将被自动处死！**"
+		"DoorCountdown"		"60"
 	}
 	"***  ADMIN SWITCHED DIFFICULT TO EASY FOR THE NEXT ROUND!! ***"
 	{

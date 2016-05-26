@@ -32,7 +32,7 @@
 	{
 		"chi"		"**它可以被使用10次**"
 	}
-	"*** Player has picked up Pushgun ***"
+	"*** Player has picked up PushGun ***"
 	{
 		"chi"		"**一位玩家拾起了神器：推力枪**"
 	}
@@ -119,7 +119,7 @@
 	{
 		"chi"		"**门将会在10秒后打开**"
 	}
-	"*** Door is opening ***"
+	"*** Door is Opening ***"
 	{
 		"chi"		"**门开辣**"
 	}
@@ -166,7 +166,7 @@
 		"chi"		"**守住这里20秒**"
 		"DoorCountdown"		"20"
 	}
-	"*** 10 SECONDS LEFT ***"
+	"*** 10 seconds left ***"
 	{
 		"chi"		"**还剩下10秒**"
 	}
@@ -393,7 +393,7 @@
 	{
 		"chi"		"**还剩下20秒**"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**最后的5秒了**"
 	}

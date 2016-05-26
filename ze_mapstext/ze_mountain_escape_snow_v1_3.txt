@@ -1,0 +1,139 @@
+"Console_T"
+{
+	"***CURRENT MODE >>>BOSS<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Special thanks to Bbo & Mentalspin***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>NORMAL<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Barrel picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport activates in few seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie teleport in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Break the box***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate opening in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind Used***"
+	{
+		"chi"		"** **"
+	}
+	"***Player picked up Radio***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke launched***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***10 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke impact***"
+	{
+		"chi"		"** **"
+	}
+	"***Speed Picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Ice picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Barrel Used***"
+	{
+		"chi"		"** **"
+	}
+	"***Ice Used***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>SOFA<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Break all walls and boxes with sofa***"
+	{
+		"chi"		"** **"
+	}
+	"***A Train is coming...***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind Casted***"
+	{
+		"chi"		"** **"
+	}
+	"***All Boxes are broken***"
+	{
+		"chi"		"** **"
+	}
+	"***Resist for 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***You clear sofa mode***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -512,4 +512,20 @@
 	{
 		"chi"		"** Atlas：它们就在你们后面！ **"
 	}
+	"*Nice work boyo. Now head on up to Ryans office so we can meet in person*"
+	{
+		"chi"		"** **"
+	}
+	"***Bathysphere door opens in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Its Over! CONGRATULATIONS***"
+	{
+		"chi"		"** **"
+	}
+	"***PLASMID: Insect Swarm Obtained***"
+	{
+		"chi"		"** **"
+	}
 }

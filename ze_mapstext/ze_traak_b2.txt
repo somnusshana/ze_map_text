@@ -8,7 +8,7 @@
 	{
 		"chi"		"** 大门将在 30 秒后开启 **（注意：很多时候防守点都是一大一小的两个口子）
                 "
-		"DoorCountdown"		"		"
+		"DoorCountdown"		"30"
 		"30"		"
 	}
 	"
@@ -22,7 +22,7 @@
 	}
 	"
 		"***"		"DOOR"
-		"IS"		"OPENING***"
+		"is"		"OPENING***"
 		"
 	{
 		"		"chi"
@@ -98,7 +98,7 @@
 	}
 	"
 		"***"		"Door"
-		"IS"		"Opening"
+		"is"		"Opening"
 		"***"		"
 	{
 		"
@@ -108,7 +108,7 @@
 	}
 	"
 		"***"		"This"
-		"IS"		"the"
+		"is"		"the"
 		"final"		"hold"
 		"***"		"
 	{
@@ -166,6 +166,7 @@
 	"*** Elevator leaves in 5 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"5"
 	}
 	"*** Door should open soon! ***"
 	{
@@ -178,8 +179,9 @@
 	"*** Warehouse door opens in 30 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
-	"*** Door is opening ***"
+	"*** Door is Opening ***"
 	{
 		"chi"		"** **"
 	}
@@ -195,7 +197,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** YOU FAIL ***"
+	"*** You Fail ***"
 	{
 		"chi"		"** **"
 	}

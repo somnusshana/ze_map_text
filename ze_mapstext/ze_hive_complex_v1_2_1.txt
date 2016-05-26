@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"*** Normal way ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hard way ***"
+	{
+		"chi"		"** **"
+	}
+	"***Break the door for enter in the manor***"
+	{
+		"chi"		"** **"
+	}
+	"***Find the elevator to enter in the complex ***"
+	{
+		"chi"		"** **"
+	}
+}

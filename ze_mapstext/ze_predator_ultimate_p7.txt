@@ -139,7 +139,7 @@
 	{
 		"chi"		"** 有玩家拿起了异形样本 **（就地点燃后形成火焰场，僵尸进入就被点燃+减速，可用次数1次）"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"chi"		"** 10 秒 **"
 	}
@@ -427,7 +427,7 @@
 	{
 		"chi"		"** 你们是极限的僵尸逃跑大师 **（卧槽，玩的溜啊兄弟）"
 	}
-	"***THANK YOU FOR PLAYING***"
+	"***Thank you for playing***"
 	{
 		"chi"		"** 感谢您的试玩 **"
 	}
@@ -444,6 +444,30 @@
 		"chi"		"** **"
 	}
 	"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
+	{
+		"chi"		"** **"
+	}
+	"***IT LOOKS LIKE ITS PREPARING FOR ANOTHER GROUNDSTOMP***"
+	{
+		"chi"		"** **"
+	}
+	"***SHOOT IT BEFORE ITS TOO LATE***"
+	{
+		"chi"		"** **"
+	}
+	"***ITS RUNNING AWAY***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CHOPPER IS ON ITS WAY!***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATORS HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU INTERUPTED THE PREDATORS ATTACK***"
 	{
 		"chi"		"** **"
 	}

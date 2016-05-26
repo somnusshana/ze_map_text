@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"***CURRENT MODE >>>SOFA<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Break all walls and boxes with sofa***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Special thanks to Bbo & Mentalspin***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>BOSS<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Barrel picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Barrel Used***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>NORMAL<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport activates in few seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie teleport in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Break the box***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate opening in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind Casted***"
+	{
+		"chi"		"** **"
+	}
+}

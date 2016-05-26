@@ -109,6 +109,7 @@
 	"-=[ Boats ready in 30 seconds... ]=-"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"-=[ Boats ready in 10 seconds... ]=-"
 	{
