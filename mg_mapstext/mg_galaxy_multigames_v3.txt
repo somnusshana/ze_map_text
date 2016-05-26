@@ -4,7 +4,7 @@
 	{
 		"chi"		"** **"
 	}
-	"@[MAP] SKIPPING ROPE"
+	"@[Map] Skipping Rope"
 	{
 		"chi"		"** **"
 	}
@@ -28,11 +28,11 @@
 	{
 		"chi"		"** **"
 	}
-	"@[MAP] BHOP"
+	"@[Map] Bhop"
 	{
 		"chi"		"** **"
 	}
-	"@[MAP] SKATE"
+	"@[Map] Skate"
 	{
 		"chi"		"** **"
 	}

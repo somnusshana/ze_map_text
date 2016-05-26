@@ -264,7 +264,7 @@
 	{
 		"chi"		"** 沙鹰**"
 	}
-	"@[Map] 30 Seconds"
+	"@[Map] 30 seconds"
 	{
 		"chi"		"** **"
 	}

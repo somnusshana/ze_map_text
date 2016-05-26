@@ -8,7 +8,7 @@
 	{
 		"chi"		"** **"
 	}
-	"@[Map] Knife"
+	"@[MAP] KNIFE"
 	{
 		"chi"		"** **"
 	}
@@ -28,7 +28,7 @@
 	{
 		"chi"		"** **"
 	}
-	"@[Map] Awp"
+	"@[MAP] AWP"
 	{
 		"chi"		"** **"
 	}
