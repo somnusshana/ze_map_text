@@ -548,4 +548,36 @@
 	{
 		"chi"		"** **"
 	}
+	"@ EFFECT [ T2 S1 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S3 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S3 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E3 ]"
+	{
+		"chi"		"** **"
+	}
 }

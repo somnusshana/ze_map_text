@@ -1,0 +1,55 @@
+"Console_T"
+{
+	"@[MAP]  Map made by Reapr"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SKIPPING ROPE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] KNIFE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] GRAVITY SCOUT"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] MAZE NOVA"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] MAZE M249"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] BHOP"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SKATE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] LONGJUMP"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] STRAFE"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] 65HP KNIFE ARENA"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SCOUT"
+	{
+		"chi"		"** **"
+	}
+}

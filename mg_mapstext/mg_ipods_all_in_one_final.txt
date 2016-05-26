@@ -1,0 +1,11 @@
+"Console_T"
+{
+	">>Map requires (balanced values if you dont want to whitelist it):<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
+	{
+		"chi"		"** **"
+	}
+}
