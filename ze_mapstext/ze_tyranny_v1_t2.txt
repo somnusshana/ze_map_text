@@ -204,4 +204,121 @@
 	{
 		"chi"		"** **"
 	}
+	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 4 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED KILLER. GO SIDE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS DEAD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE OPENING IN 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 40 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BRIDGE IS BROKEN <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS BALROG <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS ESCAPED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 5 <<<"
+	{
+	    "command" "sm_cvar mp_tagging_scale 1.0"
+		"chi"		"** **"
+	}
+	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG HEALED 150HP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED SHIELD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED KILLER. GO BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS HURT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTING ... <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS DEAD. KEEP RUNNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS BACK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS DEAD <<<"
+	{
+		"chi"		"** **"
+	}
 }
