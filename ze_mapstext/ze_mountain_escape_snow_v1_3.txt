@@ -62,7 +62,7 @@
 		"chi"		"**守住30秒 **"
 		"DoorCountdown"		"30"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"** **"
 	}
@@ -139,5 +139,9 @@
 	"***You clear sofa mode***"
 	{
 		"chi"		"**你通过了沙发模式 **"
+	}
+	"***Gravity Casted***"
+	{
+		"chi"		"** **"
 	}
 }

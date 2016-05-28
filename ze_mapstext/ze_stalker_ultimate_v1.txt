@@ -191,4 +191,152 @@
 	{
 		"chi"		"**1名玩家必须到指挥室去拿证件 **"
 	}
+	"**The documents are here!**We are too close!**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend a bit**The door will explode in a few seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**RUN RUN RUN!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Good job!! You won stage 3!! New area opened!**"
+	{
+		"chi"		"** **"
+	}
+	"**GO INTO THE TELEPORTER***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	{
+		"chi"		"** **"
+	}
+	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	{
+		"chi"		"** **"
+	}
+	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	{
+		"chi"		"** **"
+	}
+	"**NOW WE ARE READY TO GO**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold here for 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**And then go to the pool**"
+	{
+		"chi"		"** **"
+	}
+	"**..We founded something unusial..**"
+	{
+		"chi"		"** **"
+	}
+	"**.. Is it a new anomaly?!..**"
+	{
+		"chi"		"** **"
+	}
+	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	{
+		"chi"		"** **"
+	}
+	"**You have defeated controller!!! Good job**"
+	{
+		"chi"		"** **"
+	}
+	"**Now go away to the coast**"
+	{
+		"chi"		"** **"
+	}
+	"**The blowout is comming**"
+	{
+		"chi"		"** **"
+	}
+	"**Prepare for ultimate survival. Fight for your life!!**"
+	{
+		"chi"		"** **"
+	}
+	"**FIREBALL GOT MAXIMUM POWER**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU DID IT!!!**GOOD LUCK!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Prepare to FIGHT**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**"
+	{
+		"chi"		"** **"
+	}
+	"**PREPARE TO MOVE IN 10 SECONDS!**"
+	{
+		"chi"		"** **"
+	}
+	"**GO!!**GO!!**GO!!**"
+	{
+		"chi"		"** **"
+	}
+	"**DONT LET HIM TO FAIL US!!**"
+	{
+		"chi"		"** **"
+	}
+	"**PLAY AS YOU CAN**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**"
+	{
+		"chi"		"** **"
+	}
+	"**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**HE IS DEAD!!NICE WORK!!**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
+	{
+		"chi"		"** **"
+	}
+	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+	{
+		"chi"		"** **"
+	}
+	"**SPIKEBALL GOT MAXIMUM POWER**"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOSS HAS MAXIMUM HP***"
+	{
+		"chi"		"** **"
+	}
+	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
+	{
+		"chi"		"** **"
+	}
+	"**NIGHTSTAR GOT MAXIMUM POWER**"
+	{
+		"chi"		"** **"
+	}
+	"**FLASH GOT MAXIMUM POWER**"
+	{
+		"chi"		"** **"
+	}
 }

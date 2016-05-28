@@ -220,4 +220,12 @@
 	{
 		"chi"		"** **"
 	}
+	">> ZOMBIES INSIDE THE ELEVATOR <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL FAILED <<"
+	{
+		"chi"		"** **"
+	}
 }

@@ -146,7 +146,6 @@
 	}
 	">>>OVER 30 CT - DOOR ON 2ND FLOOR IS OPEN<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>超过30个人类存活。二楼开启！！！<<<"
 	}
-
 }

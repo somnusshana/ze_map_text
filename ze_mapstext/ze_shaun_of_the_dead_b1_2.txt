@@ -48,7 +48,7 @@
 	"***HOLD 20 SECONDS***"
 	{
 		"chi"		"**坚守20秒**"
-	        "DoorCountdown"		"20"
+		"DoorCountdown"		"20"
 	}
 	"***Hold 10 seconds***"
 	{
@@ -210,5 +210,9 @@
 	"***LIFT LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**电梯5秒后离开**"
+	}
+	"***SHOTGUN OUT OF AMMO***"
+	{
+		"chi"		"** **"
 	}
 }

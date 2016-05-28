@@ -1227,4 +1227,12 @@
 	{
 		"chi"		"** **"
 	}
+	"YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
+	{
+		"chi"		"** **"
+	}
+	"EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
+	{
+		"chi"		"** **"
+	}
 }

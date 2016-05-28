@@ -252,4 +252,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** The outer doors are opening! Get close! It shouldnt take much longer! **"
+	{
+		"chi"		"** **"
+	}
 }

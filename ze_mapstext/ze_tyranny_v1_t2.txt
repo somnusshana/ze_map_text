@@ -1,0 +1,207 @@
+"Console_T"
+{
+	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND END <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 1 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ENTRANCE DOOR OPENING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ICE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SPIDER IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SPIDER USED POISON. HURRY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SPIDER IS DEAD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTER ACTIVATE IN 15 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR CLOSING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> LEVEL COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 2 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GO RIGHT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TROLL IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TROLL IS DEAD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS DRAGON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS HURT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 3 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP KILLER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE OPENING IN 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED WATER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUN <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTER ACTIVATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS COMING FOWERD. SHOOT <<<"
+	{
+		"chi"		"** **"
+	}
+}
