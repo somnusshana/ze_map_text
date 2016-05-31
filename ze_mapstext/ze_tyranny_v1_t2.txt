@@ -30,39 +30,44 @@
 	}
 	">>> PLAYER HAS PICKED UP FIRE <<<"
 	{
-		"chi"		"**一名玩家拾起了烈焰法杖**"
+		"chi"		"**一名玩家拾起了烈焰**"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
-		"chi"		"**一名玩家拾起了治疗法杖**"
+		"chi"		"**一名玩家拾起了治疗**"
 	}
 	">>> PLAYER HAS PICKED UP PUSH <<<"
 	{
-		"chi"		"**一名玩家拾起了推力法杖**"
+		"chi"		"**一名玩家拾起了推力**"
 	}
 	">>> PLAYER HAS PICKED UP ICE <<<"
 	{
-		"chi"		"**一名玩家拾起了冰冻法杖**"
+		"chi"		"**一名玩家拾起了冰冻**"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
 		"chi"		"**坚守20秒**"
+		"DoorCountdown"		"20"
 	}
 	">>> HOLD 25 SECONDS <<<"
 	{
 		"chi"		"**坚守25秒**"
+		"DoorCountdown"		"25"
 	}
 	">>> HOLD 10 SECONDS <<<"
 	{
 		"chi"		"**坚守10秒**"
+		"DoorCountdown"		"10"
 	}
 	">>> HOLD 5 SECONDS <<<"
 	{
 		"chi"		"**坚守5秒**"
+		"DoorCountdown"		"5"
 	}
 	">>> HOLD 15 SECONDS <<<"
 	{
 		"chi"		"**坚守15秒**"
+		"DoorCountdown"		"15"
 	}
 	">>> SPIDER IS COMING <<<"
 	{
@@ -71,6 +76,7 @@
 	">>> SPIDER USED POISON. HURRY <<<"
 	{
 		"chi"		"**蜘蛛施放了剧毒，赶在它把我们都杀掉之前解决掉它！**"
+		"ico"		"icon_fire"
 	}
 	">>> SPIDER IS DEAD <<<"
 	{
@@ -79,6 +85,7 @@
 	">>> TELEPORTER ACTIVATE IN 15 SECONDS <<<"
 	{
 		"chi"		"**传送点将在15秒后激活**"
+		"DoorCountdown"		"15"
 	}
 	">>> DOOR CLOSING <<<"
 	{
@@ -110,11 +117,11 @@
 	}
 	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
 	{
-		"chi"		"**一名玩家拾起了闪电法杖**"
+		"chi"		"**一名玩家拾起了闪电**"
 	}
 	">>> PLAYER HAS PICKED UP AMMO <<<"
 	{
-		"chi"		"**一名玩家拾起了补给法杖**"
+		"chi"		"**一名玩家拾起了弹药**"
 	}
 	">>> TROLL IS COMING <<<"
 	{
@@ -138,19 +145,20 @@
 	}
 	">>> PLAYER HAS PICKED UP HEDGE <<<"
 	{
-		"chi"		"**一名玩家拾起了树篱法杖**"
+		"chi"		"**一名玩家拾起了树篱（墙）**"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
 	{
-		"chi"		"**一名玩家拾起了僵尸拖拽**"
+		"chi"		"**一名玩家拾起了僵尸拖拽（黑洞）**"
 	}
 	">>> HOLD 30 SECONDS <<<"
 	{
 		"chi"		"**坚守30秒**"
+		"DoorCountdown"		"30"
 	}
 	">>> PLAYER HAS PICKED UP KILLER <<<"
 	{
-		"chi"		"**一名玩家拾起了杀戮法杖**"
+		"chi"		"**一名玩家拾起了杀戮（终极）**"
 	}
 	">>> DRAGON IS COMING <<<"
 	{
@@ -158,15 +166,18 @@
 	}
 	">>> DRAGON USED GRAVITY <<<"
 	{
-		"chi"		"**巨龙施放了黑洞（按住S以防止被拖到巨龙脚下）**"
+		"chi"		"**巨龙施放了黑洞（切刀按住S以防止被拖到巨龙脚下）**"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED FIRE <<<"
 	{
 		"chi"		"**巨龙施放了烈焰（迅速朝两边躲闪）**"
+		"ico"		"icon_fire"
 	}
 	">>> GATE OPENING IN 5 SECONDS <<<"
 	{
 		"chi"		"**大门将在5秒后打开**"
+		"DoorCountdown"		"5"
 	}
 	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
 	{
@@ -175,14 +186,17 @@
 	">>> DRAGON USED WATER <<<"
 	{
 		"chi"		"**巨龙施放了水柱**"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON USED POISON <<<"
 	{
 		"chi"		"**巨龙施放了剧毒**"
+		"ico"		"icon_fire"
 	}
 	">>> HOLD 35 SECONDS <<<"
 	{
 		"chi"		"*坚守35秒**"
+		"DoorCountdown"		"35"
 	}
 	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
 	{
@@ -195,6 +209,7 @@
 	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
 	{
 		"chi"		"**巨人正在步步紧追，千万别停下脚步！**"
+		"ico"		"icon_fire"
 	}
 	">>> TELEPORTER ACTIVATED <<<"
 	{
@@ -203,6 +218,7 @@
 	">>> DRAGON IS COMING FOWERD. SHOOT <<<"
 	{
 		"chi"		"**巨龙出现在了前方，快朝它射击！**"
+		"ico"		"icon_fire"
 	}
 	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
 	{
@@ -223,10 +239,12 @@
 	">>> GARGANTUA USED KILLER. GO SIDE <<<"
 	{
 		"chi"		"**巨人正在施放杀戮，迅速跑向场地边缘**"
+		"ico"		"icon_fire"
 	}
 	">>> GARGANTUA USED FIRE <<<"
 	{
 		"chi"		"**巨人施放了火（不要站在场地边缘）**"
+		"ico"		"icon_fire"
 	}
 	">>> GARGANTUA IS DEAD <<<"
 	{
@@ -235,10 +253,12 @@
 	">>> GATE OPENING IN 10 SECONDS <<<"
 	{
 		"chi"		"**大门将在10秒后打开**"
+		"DoorCountdown"		"10"
 	}
 	">>> HOLD 40 SECONDS <<<"
 	{
 		"chi"		"**坚守40秒**"
+		"DoorCountdown"		"40"
 	}
 	">>> HOLD 15 SECONDS<<<"
 	{
@@ -279,15 +299,18 @@
 	}
 	">>> BALROG USED GRAVITY <<<"
 	{
-		"chi"		"**炎魔施放了黑洞（按住S，千万不要被拖到炎魔脚下）**"
+		"chi"		"**炎魔施放了黑洞（切刀按住S，千万不要被拖到炎魔脚下，或者使用树篱）**"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED PUSH <<<"
 	{
-		"chi"		"**炎魔施放了推（按住W以防止被推下平台）**"
+		"chi"		"**炎魔施放了推（切刀按住W以防止被推下平台）**"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
 		"chi"		"**炎魔施放了激光，立刻蹲下以防被激光削到！**"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED SHIELD <<<"
 	{
@@ -296,10 +319,12 @@
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
 		"chi"		"**炎魔正在施放杀戮，迅速跑回平台末端**"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG USED POISON <<<"
 	{
 		"chi"		"**炎魔施放了剧毒（高伤害，看准光球位置左右躲开）**"
+		"ico"		"icon_fire"
 	}
 	">>> BALROG IS HURT <<<"
 	{
