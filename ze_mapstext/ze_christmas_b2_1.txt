@@ -2,111 +2,121 @@
 {
 	"***Elevator doors closing in 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯门5秒后关闭 **"
+		"DoorCountdown"		"5"
 	}
 	"***Hold for 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持5秒 **"
 	}
 	"***Hold for 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持10秒 **"
+		"DoorCountdown"		"10"
 	}
 	"***Doors closing in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门30秒后关闭 **"
+		"DoorCountdown"		"30"
 	}
 	"***ZOMBIES IN SAFE ZONE!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸在安全区！！！ **"
 	}
 	"***KILL THEM TO COMPLETE LEVEL***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死他们完成本关 **"
 	}
 	">> LEVEL: 2 <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 第二关 << **"
 	}
 	"**Sleigh leaving in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**雪橇在5秒后离开 **"
+		"DoorCountdown"		"5"
 	}
 	"***Elevator leaving in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯20秒后离开 **"
+		"DoorCountdown"		"20"
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"***Station Doors will open in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**车站门会在10秒后打开 **"
+		"DoorCountdown"		"10"
 	}
 	"***Station Doors are open***"
 	{
-		"chi"		"** **"
+		"chi"		"**车站门是开的 **"
 	}
 	"***The train is blocking the path***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车挡住了去路 **"
 	}
 	"***We need to blow it up***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要将其炸毁 **"
 	}
 	"***Plant the c4 on each side of the train by pressing E ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在火车两边的按E放置C4 **"
 	}
 	"***C4 is planted***"
 	{
-		"chi"		"** **"
+		"chi"		"**C4已安装 **"
 	}
 	"***It should explode soon***"
 	{
-		"chi"		"** **"
+		"chi"		"**它很快就要爆炸了 **"
 	}
 	"***Hold for 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持15秒 **"
+		"DoorCountdown"		"15"
 	}
 	"**Level completed**"
 	{
-		"chi"		"** **"
+		"chi"		"**完成本关 **"
 	}
 	">> LEVEL: 3 <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 第三关 << **"
 	}
 	"***Defend for 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒 **"
+		"DoorCountdown"		"20"
 	}
 	">> PLAYER HAS PICKED UP HEAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 玩家已经拿起治疗 << **"
 	}
 	"***DOOR IS OPEN! GET INSIDE!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**门是开的！进去！！ **"
 	}
 	">> CROSS THE ACID POOL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 穿过酸池 << **"
 	}
 	"***Elevator leaving in 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后离开 **"
+		"DoorCountdown"		"5"
 	}
 	"***Hold for 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持20秒 **"
+		"DoorCountdown"		"20"
 	}
 	"***Hold for 5seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持5秒 **"
 	}
 	">>NYAN CAT ADDED<<"
 	{
@@ -114,31 +124,33 @@
 	}
 	"***Elevator doors closing in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯门10秒后关闭 **"
+		"DoorCountdown"		"10"
 	}
 	"**Sleigh leaving in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**雪橇在20秒后离开 **"
+		"DoorCountdown"		"20"
 	}
 	"**Sleigh leaving in 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**雪橇在10秒后离开 **"
 	}
 	"***Defend until we open the gate***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！直到我们打开大门 **"
 	}
 	"***The door is open***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"***THE GATES ARE CLOSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门已经关上 **"
 	}
 	"***1 PLAYER HAS TO GO TO PRESS THE BUTTON***"
 	{
-		"chi"		"** **"
+		"chi"		"**1名玩家必须去按按钮 **"
 	}
 	"510 Cat Found"
 	{
@@ -146,15 +158,16 @@
 	}
 	"***Exit Door will open in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**出口门会在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"***Exit Door will open in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**出口门会在10秒后打开 **"
 	}
 	"***Exit Door is open***"
 	{
-		"chi"		"** **"
+		"chi"		"**出口门开了 **"
 	}
 	"610 Cat Found"
 	{
@@ -162,7 +175,8 @@
 	}
 	"***Hold for 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持30秒 **"
+		"DoorCountdown"		"30"
 	}
 	"710 Cat Found"
 	{
@@ -170,27 +184,29 @@
 	}
 	"***Defend few seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住几秒钟 **"
 	}
 	">> Map by Taskuvaras  Fixed with Moltard <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 地图制作：Taskuvaras 地图修复：Moltard 地图翻译：蓬莱山帅比♪ **"
 	}
 	">> LEVEL: 1 <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 第一关 << **"
 	}
 	">> PLAYER HAS PICKED UP GRAVITY <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 玩家已拿起重力 << **"
 	}
 	"***Door opening in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"***Hold here for 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住10秒 **"
+		"DoorCountdown"		"10"
 	}
 	"110 Cat Found"
 	{
@@ -198,11 +214,11 @@
 	}
 	"***The train is stuck and wont start***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车被卡住了，无法启动 **"
 	}
 	"***Take the left path***"
 	{
-		"chi"		"** **"
+		"chi"		"**走左边的道路 **"
 	}
 	"210 Cat Found"
 	{
@@ -218,14 +234,15 @@
 	}
 	"***Defend for 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守10秒 **"
+		"DoorCountdown"		"10"
 	}
 	">> ZOMBIES INSIDE THE ELEVATOR <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸在电梯里面 **"
 	}
 	">> LEVEL FAILED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>> 本关失败 << **"
 	}
 }
