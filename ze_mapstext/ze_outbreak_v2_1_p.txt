@@ -23,6 +23,7 @@
 	"Mine shaft 1 door will open in 15 sec."
 	{
 		"chi"		"**矿坑1号大门将在15秒后打开 **"
+		"DoorCountdown"		"15"
 	}
 	"Mine shaft elevator 1 leaving in 3 sec."
 	{
@@ -31,10 +32,12 @@
 	"[Teleporting bottom part in 20 seconds]"
 	{
 		"chi"		"**将在20秒后传送 **"
+		"DoorCountdown"		"20"
 	}
 	"Roof doors will open in 15 sec."
 	{
 		"chi"		"**顶层大门将在15秒后打开 **"
+		"DoorCountdown"		"15"
 	}
 	"Top elevator 2 leaving in 5 sec."
 	{
@@ -47,6 +50,7 @@
 	"Storehouse doors will open in 20 sec."
 	{
 		"chi"		"**仓库大门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"Error. Storehouse doors will close and re-open."
 	{
@@ -55,6 +59,7 @@
 	"Final doors will open in 10 sec."
 	{
 		"chi"		"**最后的大门将在10秒后打开 **"
+		"DoorCountdown"		"10"
 	}
 	"Final doors opened. Use the computer to release the nerve gas."
 	{
@@ -67,6 +72,7 @@
 	"Nerve gas will be released in 60 seconds."
 	{
 		"chi"		"**神经毒气将在60秒后释放 **"
+		"DoorCountdown"		"60"
 	}
 	"[Final teleport in 10 seconds]"
 	{
@@ -95,6 +101,7 @@
 	"Mine shaft 2 door will open in 15 sec."
 	{
 		"chi"		"**矿坑2号大门将在15秒后打开 **"
+		"DoorCountdown"		"15"
 	}
 	"Mine shaft elevator 2 leaving in 3 sec."
 	{
