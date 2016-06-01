@@ -827,7 +827,7 @@
 	}
 	"ze_surf_sahok_v1_e5"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀滑翔V1_5"
         "credit"    "500"
 	}
 	"ze_christmas_infection_v2_7_air"
@@ -1059,7 +1059,7 @@
 	}
 	"ze_surf_sahok_v1_e6"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀滑翔V1_6"
 		"credit"		"800"
 	}
 	"ze_fapescape_rote_v1_3"
