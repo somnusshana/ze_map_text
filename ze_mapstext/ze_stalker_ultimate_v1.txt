@@ -283,7 +283,7 @@
 	"**PREPARE TO MOVE IN 10 SECONDS!**"
 	{
 		"chi"		"**准备在10秒后撤退 **"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"10"
 	}
 	"**GO!!**GO!!**GO!!**"
 	{
