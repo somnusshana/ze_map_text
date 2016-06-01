@@ -120,7 +120,7 @@
 	}
 	"**AUTO-SLAYER ENABLED**"
 	{
-		"chi"		"**auto-slayer启用 **"
+		"chi"		"**第二关 auto-slayer启用 **"
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
@@ -134,7 +134,7 @@
 	}
 	"***Break the spheres to escape***"
 	{
-		"chi"		"**赶紧打破中间圆柱的玻璃逃跑 **"
+		"chi"		"**赶紧打败那个蓝色的球体逃跑 **"
 	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
@@ -299,7 +299,7 @@
 	}
 	"**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**"
 	{
-		"chi"		"**你太接近胜利了**继续守住  **"
+		"chi"		"**你很接近胜利**继续守住  **"
 	}
 	"**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
 	{
@@ -323,7 +323,7 @@
 	}
 	"**SPIKEBALL GOT MAXIMUM POWER**"
 	{
-		"chi"		"**奶升级到最高级 **"
+		"chi"		"**奶升级到最高级（奶可以增加到425血） **"
 	}
 	"***THE BOSS HAS MAXIMUM HP***"
 	{
@@ -331,14 +331,14 @@
 	}
 	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
 	{
-		"chi"		"**风升级到最高级 **"
+		"chi"		"**风升级到最高级（风可以持续8秒） **"
 	}
 	"**NIGHTSTAR GOT MAXIMUM POWER**"
 	{
-		"chi"		"**减速升级到最高级 **"
+		"chi"		"**减速升级到最高级（可以把在范围内的僵尸减速） **"
 	}
 	"**FLASH GOT MAXIMUM POWER**"
 	{
-		"chi"		"**电升级到最高级 **"
+		"chi"		"**电升级到最高级（5秒后在电范围内的僵尸都将被炸死） **"
 	}
 }
