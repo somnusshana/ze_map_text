@@ -331,7 +331,7 @@
 	}
 	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
 	{
-		"chi"		"**风升级到最高级（风可以持续8秒） **"
+		"chi"		"**风升级到最高级（风可以持续8秒 注意别飞妈） **"
 	}
 	"**NIGHTSTAR GOT MAXIMUM POWER**"
 	{
