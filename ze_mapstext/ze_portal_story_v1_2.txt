@@ -91,6 +91,10 @@
 	">>> DESTROY THE TURRETS <<<"
 	{
 		"chi"		"**摧毁炮塔 **"
+		"ico"   "icon_fire"
+		"ico"   "icon_fire"
+		"ico"   "icon_fire"
+		"ico"   "icon_fire"
 	}
 	">>> TURRETS DESTROYED <<<"
 	{
