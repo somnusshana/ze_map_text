@@ -399,7 +399,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**暴风之翼（切刀向后跑）（记得按S好么？）**"
+		"chi"		"**暴风之翼（切刀向后跑）**"
 		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime died***"
@@ -444,7 +444,7 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**撼地（往两边跑）（你特喵在逗我？）**"
+		"chi"		"**撼地（躲避柱子）**"
 		"ico"		"icon_fire"
 	}
 	"***10 seconds***"
@@ -453,15 +453,15 @@
 	}
 	"***Recast 55s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却时间55秒**"
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了忠义之盾（流沙）**"
 	}
 	"***Recast 80s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却80秒**"
 	}
 	"***Level:Savage set***"
 	{
@@ -469,7 +469,7 @@
 	}
 	"***Hold this position to 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守30秒**"
 	}
 	"***LASER***"
 	{
@@ -477,6 +477,6 @@
 	}
 	"***The Wanderers Palace Clear to 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**流浪者宫殿将在10秒后毁灭**"
 	}
 }
