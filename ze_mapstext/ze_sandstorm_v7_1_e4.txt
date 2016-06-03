@@ -18,7 +18,7 @@
 	}
 	"** A player has picked up Fire Staff **"
 	{
-		"chi"		"**一位玩家拾起火之权杖**"
+		"chi"		"**一位玩家拾起了烈焰权杖**"
 	}
 	"** The doors will open in 20 seconds **"
 	{
@@ -27,7 +27,7 @@
 	}
 	"** A player has picked up Tornado Staff **"
 	{
-		"chi"		"** 一位玩家拾起飓风权杖 **"
+		"chi"		"** 一位玩家拾起了飓风权杖 **"
 	}
 	"** 5 SECONDS LEFT **"
 	{
@@ -39,7 +39,7 @@
 	}
 	"** A player has picked up Earth Staff **"
 	{
-		"chi"		"**一位玩家拾起土之权杖**"
+		"chi"		"**一位玩家拾起了大地权杖**"
 	}
 	"** The door will open in 25 seconds **"
 	{
@@ -48,7 +48,7 @@
 	}
 	"** A player has picked up Quicksand Staff **"
 	{
-		"chi"		"**一位玩家拾起流沙权杖**"
+		"chi"		"**一位玩家拾起了流沙权杖**"
 	}
 	"** The doors will open in 15 seconds **"
 	{
@@ -60,11 +60,11 @@
 	}
 	"** Hold zombies for 15 seconds **"
 	{
-		"chi"		"**防守15秒**"
+		"chi"		"**防守15秒**" "**守住最后的净土**"
 	}
 	"** Kill the remaining zombies! **"
 	{
-		"chi"		"**杀掉安全房剩下的僵尸**"
+		"chi"		"**解决掉安全房中剩下的僵尸**"
 	}
 	"*** YOU WON STAGE 1 ***"
 	{
@@ -80,7 +80,7 @@
 	}
 	"** A player has picked up SandStorm Staff **"
 	{
-		"chi"		"** 一位玩家拾起沙暴权杖 **"
+		"chi"		"** 一位玩家拾起沙尘暴 **"
 	}
 	"** Teleport will open in 15 seconds **"
 	{
@@ -113,7 +113,7 @@
 	}
 	"** Elevator leaves in 5 seconds **"
 	{
-		"chi"		"**电梯5秒后上升**"
+		"chi"		"**电梯5秒后上升**" "**守住最后的净土**"
 	}
 	"** YOU WON STAGE 2 **"
 	{
@@ -134,7 +134,7 @@
 	}
 	"** YOU WON STAGE 3 **"
 	{
-		"chi"		"**你拿下了第三关 **"
+		"chi"		"**你拿下了第三关 **" "**守住最后的净土**"
 	}
 	"** LEVEL 4 **"
 	{
@@ -186,7 +186,7 @@
 	}
 	"*** YOU WON STAGE 5 ***"
 	{
-		"chi"		"**您是这张地图的大师，第五关突破！**"
+		"chi"		"**您是征服了这张地图的大师，第五关突破！**"
 	}
 	"** Humans have become immortal!!! **"
 	{
@@ -194,7 +194,7 @@
 	}
 	"** Zombies have 1 HP! **"
 	{
-		"chi"		"**尽情刷分吧**"
+		"chi"		"**尽情刷分吧QWQ**"
 	}
 	"** Victory in 230 seconds. **"
 	{
