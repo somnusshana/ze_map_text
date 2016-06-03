@@ -6,7 +6,7 @@
 	}
 	"@[MAP] Guys on top have 75 seconds to kill the opposing team!"
 	{
-		"chi"		"** 在顶上的人有75秒击杀敌军**"
+		"chi"		"** 在顶上的人有75秒的时间当FFF团团长**"
 	}
 	"@[MAP] Floor breaking in 10 seconds!"
 	{
@@ -22,7 +22,7 @@
 	}
 	"@[MAP] Burn the blocks to win!"
 	{
-		"chi"		"** 烧毁方块来取得胜利**"
+		"chi"		"** 烧毁异性恋的方块来取得胜利**"
 	}
 	"@[MAP] COUNTER-TERRORIST'S WIN!"
 	{
@@ -54,7 +54,7 @@
 	}
 	"@[MAP] Healing trigger disabled!"
 	{
-		"chi"		"** 无法恢复开关**"
+		"chi"		"** 生命恢复关闭**"
 	}
 	"@[MUSIC] Ed Sheeran - Don't"
 	{
@@ -86,11 +86,11 @@
 	}
 	"@[MAP] DONT HIT THE CORNERS! You will take damage!"
 	{
-		"chi"		"** 不要打角落！你会受到伤害的！**"
+		"chi"		"** 如果你不想像元首那样蠢得掉血的话，就不要碰柱子的尖端！**"
 	}
 	"@[MAP] Push triggers disabled!"
 	{
-		"chi"		"** 无法推动开关**"
+		"chi"		"** 随从的冲锋效果失效了**"
 	}
 	"@[MAP] Guns in 10 seconds!"
 	{
