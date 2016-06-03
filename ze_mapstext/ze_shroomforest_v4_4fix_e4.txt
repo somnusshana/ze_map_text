@@ -30,11 +30,11 @@
 	}
 	">> 20 SECONDS LEFT <<"
 	{
-		"chi"		"**剩下20秒 **"
+		"chi"		"**剩下20秒,这是真的吗 **"
 	}
 	">> 10 SECONDS LEFT <<"
 	{
-		"chi"		"**剩下10秒 **"
+		"chi"		"**剩下10秒,我吃完了，你呢 **"
 	}
 	">> WARMUP ROUND END <<"
 	{
@@ -62,11 +62,11 @@
 	}
 	">> PLAYER HAS PICKED UP ICE <<"
 	{
-		"chi"		"**一位玩家拿起了冰 **"
+		"chi"		"**一位玩家拿起了冰,你可以跟僵尸玩木头人了 **"
 	}
 	">> PLAYER HAS PICKED UP FIRE <<"
 	{
-		"chi"		"**一位玩家拿起了火 **"
+		"chi"		"**一位玩家拿起了火,你可以烧僵尸玩了 **"
 	}
 	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
 	{
@@ -74,7 +74,7 @@
 	}
 	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
 	{
-		"chi"		"**木板碎了,跑!!!!!!! **"
+		"chi"		"**木板碎了,快跑!!!!!!! **"
 	}
 	"*** Leaf 1 leaving in 7 seconds ***"
 	{
@@ -106,11 +106,11 @@
 	}
 	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
 	{
-		"chi"		"**蝴蝶死了,救援来了 **"
+		"chi"		"**蝴蝶挂了,救援来了 **"
 	}
 	">> BUTTERFLY LEAVING IN 10 seconds <<"
 	{
-		"chi"		"**蝴蝶将在10秒后离开 **"
+		"chi"		"**蝴蝶妹子将在10秒后离开 **"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
@@ -142,11 +142,11 @@
 	}
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
-		"chi"		"**电梯将在20秒后离开 **"
+		"chi"		"**电梯将在20秒后离开,你是車吗**"
 	}
 	"*** ELEVATOR LEAVING IN 10 seconds ***"
 	{
-		"chi"		"**电梯将在10秒后离开 **"
+		"chi"		"**电梯将在10秒后离开,你是猪吗 **"
 	}
 	"*** ELEVATOR LEAVING IN 5 seconds ***"
 	{
@@ -158,7 +158,7 @@
 	}
 	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
 	{
-		"chi"		"**人类下电梯或者等待你的惩罚带来 **"
+		"chi"		"**人类离开电梯或者等待你的惩罚到来 **"
 	}
 	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
 	{
@@ -166,11 +166,11 @@
 	}
 	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
 	{
-		"chi"		"**皮卡丘死了,跑向救援蝴蝶 **"
+		"chi"		"**皮卡丘挂了,跑向救援蝴蝶 **"
 	}
 	">> BUTTERFLY LEAVING IN 15 seconds <<"
 	{
-		"chi"		"**蝴蝶将在15秒后离开 **"
+		"chi"		"**蝴蝶妹子不耐烦了,她将在15秒后离开 **"
 	}
 	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
 	{
@@ -178,19 +178,19 @@
 	}
 	">> PLAYER HAS PICKED UP HEAL <<"
 	{
-		"chi"		"**一位玩家拿起了奶 **"
+		"chi"		"**一位玩家拿起了奶,想知道是谁的奶吗 **"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
-		"chi"		"**一位玩家拿起了6个地雷 **"
+		"chi"		"**一位玩家拿起了6个地雷...记住,你不能放第7个 **"
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{
-		"chi"		"**一位玩家拿起了土(墙) **"
+		"chi"		"**一位玩家拿起了土(墙),你可以...干啥... **"
 	}
 	">> ALL 6 MINES USED <<"
 	{
-		"chi"		"**所有地雷已经用尽 **"
+		"chi"		"**你放了第6个地雷,但你不能放第7个,因为你用完啦 **"
 	}
 	">> LEVEL: HELL <<"
 	{
@@ -198,7 +198,7 @@
 	}
 	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
 	{
-		"chi"		"**一位玩家拿起了无限弹药 **"
+		"chi"		"**一位玩家拿起了无限弹药,你可以刷分啦**"
 	}
 	"*** HOLD FOR 30 seconds ***"
 	{
@@ -210,7 +210,7 @@
 	}
 	">> PLAYER HAS PICKED UP GRAVITY <<"
 	{
-		"chi"		"**一位玩家拿起了重力 **"
+		"chi"		"**一位玩家拿起了重力,你可以装逼啦**"
 	}
 	">> SECRET IS NOW OPEN <<"
 	{
@@ -290,7 +290,7 @@
 	}
 	">> BUTTERFLY LEAVING IN 30 seconds <<"
 	{
-		"chi"		"**蝴蝶将在30秒后离开 **"
+		"chi"		"**蝴蝶妹子将在30秒后离开 **"
 	}
 	">> DITTO IS USING SEED ATTACK <<"
 	{
@@ -302,7 +302,7 @@
 	}
 	">> PLAYER HAS PICKED UP WIND <<"
 	{
-		"chi"		"**一位玩家拿起了风 **"
+		"chi"		"**一位玩家拿起了风,你可以调戏僵尸了 **"
 	}
 	"*** OH NO!! ITS DRAGON!! ***"
 	{
@@ -334,7 +334,7 @@
 	}
 	">> LEVEL: CHOOSING LEVEL <<"
 	{
-		"chi"		"**关卡:选择关卡 **"
+		"chi"		"**关卡:选关之关 **"
 	}
 	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
 	{
@@ -390,7 +390,7 @@
 	}
 	"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
 	{
-		"chi"		"**皮卡丘将要倒下,远离它 **"
+		"chi"		"**皮卡丘将要倒下了,远离它 **"
 	}
 	"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
 	{
