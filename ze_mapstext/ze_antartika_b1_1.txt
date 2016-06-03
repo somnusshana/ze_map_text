@@ -1,0 +1,143 @@
+"Console_T"
+{
+	"** Chapter I: Ascension **"
+	{
+		"chi"		"** **"
+	}
+	"** Weve reached the southwest dock... **"
+	{
+		"chi"		"** **"
+	}
+	"** We must find our way into the facility. **"
+	{
+		"chi"		"** **"
+	}
+	"** This path should lead us to one of the several supply warehouses... **"
+	{
+		"chi"		"** **"
+	}
+	"** BLIZARD MODE ENABLED: DIFFICULTY INCREASED **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! We need to access the main complex by unlocking this door! **"
+	{
+		"chi"		"** **"
+	}
+	"** Were almost there! Dont let anything through! **"
+	{
+		"chi"		"** **"
+	}
+	"** FALL BACK! Its about to open! **"
+	{
+		"chi"		"** **"
+	}
+	"** Were nearing the neuralgic center of the complex... **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold until we are able to open this door! **"
+	{
+		"chi"		"** **"
+	}
+	"** This button should unlock the doors and let us through... **"
+	{
+		"chi"		"** **"
+	}
+	"** Resist while we wait for the doors to open! **"
+	{
+		"chi"		"** **"
+	}
+	"** Well need to reach one of the gas deposits to blow it up and delay their plans... **"
+	{
+		"chi"		"** **"
+	}
+	"** Look at that! There is enough weaponry to start a massive offensive... **"
+	{
+		"chi"		"** **"
+	}
+	"** According to our information we should be nearing a maintenance zone... **"
+	{
+		"chi"		"** **"
+	}
+	"** The maintenance elevator should be enough to access the upper levels. **"
+	{
+		"chi"		"** **"
+	}
+	"** GET GOING! We need to advance! **"
+	{
+		"chi"		"** **"
+	}
+	"** The elevator is coming! RESIST! **"
+	{
+		"chi"		"** **"
+	}
+	"** Call the elevator! Well need to resist right here while its coming... **"
+	{
+		"chi"		"** **"
+	}
+	"** GET ON! THE ELEVATOR IS ABOUT TO LEAVE! **"
+	{
+		"chi"		"** **"
+	}
+	"** Resist! This door shall take us to one of the middle areas! **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep it up! Its about to open! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THEM RIGHT HERE! We need to unlock this door! **"
+	{
+		"chi"		"** **"
+	}
+	"** OAGH! IT STINKS IN HERE! HOLD YOUR BREATH AND RESIST! **"
+	{
+		"chi"		"** **"
+	}
+	"** The stench is unbearable! Were opening the door as fast as we can - HOLD THEM! **"
+	{
+		"chi"		"** **"
+	}
+	"** Get close! The door is about to open! **"
+	{
+		"chi"		"** **"
+	}
+	"** Get moving! We might need to roam the abandoned basements to reach the main warehouse... **"
+	{
+		"chi"		"** **"
+	}
+	"** GET CLOSE! Were about to breach in! **"
+	{
+		"chi"		"** **"
+	}
+	"** We need to find a way to make those tanks blow up! **"
+	{
+		"chi"		"** **"
+	}
+	"** Perhaps we can fiddle with the preasure using the control pannels? **"
+	{
+		"chi"		"** **"
+	}
+	"** We did it! The pressure is increasing at exponential rates! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold until we open the doors! We need a way out! **"
+	{
+		"chi"		"** **"
+	}
+	"** Our information indicates there should be a small cargo elevator close to our position... **"
+	{
+		"chi"		"** **"
+	}
+	"** This is our way out! Defend the elevator until it leaves! **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES DETECTED - INVALID VICTORY! **"
+	{
+		"chi"		"** **"
+	}
+}

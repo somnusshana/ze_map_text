@@ -262,7 +262,7 @@
 	}
 	">>> STAGE 5 <<<"
 	{
-	    "command" "sm_cvar mp_tagging_scale 1.0"
+		"command"		"sm_cvar mp_tagging_scale 1.0"
 		"chi"		"**第五关 -- 翻译：浅见执羽**"
 	}
 	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
@@ -320,5 +320,33 @@
 	">>> BALROG IS DEAD <<<"
 	{
 		"chi"		"**我们终于解决掉了炎魔，庆祝胜利吧！**"
+	}
+	">>> GARGANTUA USED ICE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TRASHED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
+	{
+		"chi"		"** **"
 	}
 }

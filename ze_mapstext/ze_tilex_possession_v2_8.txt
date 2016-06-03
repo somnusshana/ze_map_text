@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"Admin pressed Insane button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Ex disable button"
+	{
+		"chi"		"** **"
+	}
+}

@@ -139,7 +139,7 @@
 	{
 		"chi"		"** 有玩家拿起了异形样本 **（就地点燃后形成火焰场，僵尸进入就被点燃+减速，可用次数1次）"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"** 10 秒 **"
 	}
@@ -427,7 +427,7 @@
 	{
 		"chi"		"** 你们是极限的僵尸逃跑大师 **（卧槽，玩的溜啊兄弟）"
 	}
-	"***Thank you for playing***"
+	"***THANK YOU FOR PLAYING***"
 	{
 		"chi"		"** 感谢您的试玩 **"
 	}
@@ -468,6 +468,14 @@
 		"chi"		"** **"
 	}
 	"***YOU INTERUPTED THE PREDATORS ATTACK***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU FAILED***"
+	{
+		"chi"		"** **"
+	}
+	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
 	{
 		"chi"		"** **"
 	}

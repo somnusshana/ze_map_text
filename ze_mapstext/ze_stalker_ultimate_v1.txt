@@ -341,4 +341,12 @@
 	{
 		"chi"		"**电升级到最高级（5秒后在电范围内的僵尸都将被炸死） **"
 	}
+	"**YOU HAVE FAILED**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
+	{
+		"chi"		"** **"
+	}
 }

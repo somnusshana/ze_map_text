@@ -256,4 +256,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** RESIST! We cant let them enter the trench! Itd be a massacre! **"
+	{
+		"chi"		"** **"
+	}
+	"** The inner doors are sealing now! Dont let anything through! **"
+	{
+		"chi"		"** **"
+	}
 }

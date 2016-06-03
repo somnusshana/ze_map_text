@@ -399,7 +399,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**暴风之翼（切刀向后跑）**"
+		"chi"		"**暴风之翼（切刀向后跑）（记得按S好么？）**"
 		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime died***"
@@ -444,7 +444,7 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**撼地（躲避柱子）**"
+		"chi"		"**撼地（往两边跑）（你特喵在逗我？）**"
 		"ico"		"icon_fire"
 	}
 	"***10 seconds***"

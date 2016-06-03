@@ -100,4 +100,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***THE PODS ARE LEAVING IN 2 MINUTES***"
+	{
+		"chi"		"** **"
+	}
+	"***STRATEGISE YOUR DEFENDING TO ESCAPE SAFELY***"
+	{
+		"chi"		"** **"
+	}
+	"***GO!***"
+	{
+		"chi"		"** **"
+	}
 }

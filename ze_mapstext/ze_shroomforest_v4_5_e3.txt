@@ -1,0 +1,11 @@
+"Console_T"
+{
+	">> Map ported by 單純 <<"
+	{
+		"chi"		"** **"
+	}
+	">> BUT IT FAILED!!!! <<"
+	{
+		"chi"		"** **"
+	}
+}

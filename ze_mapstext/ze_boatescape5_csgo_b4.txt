@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"*** FIRST BOAT IS LEAVING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SECOND BOAT IS LEAVING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Starting up Helicopter ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nazgul has been summoned ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The First Boat Has Reached The Dock ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The Second Boat Has Reached The Dock ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Rescue boats inbound ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HELP IS ON ITS WAY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Minecart leaving in 10 sec ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Wait for other survivors ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Heli has reached the island ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Boat Three Has Left For Safety ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Slowing Zombie boat for 10s***"
+	{
+		"chi"		"** **"
+	}
+	"*** Boat Four Has Left For Safety ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter has been disabled ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Humans have reached the evac zone ***"
+	{
+		"chi"		"** **"
+	}
+	"*** APC is leaving ***"
+	{
+		"chi"		"** **"
+	}
+}

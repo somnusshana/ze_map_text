@@ -252,4 +252,28 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Laser off !! Go disable Red Queen !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopters recue incoming ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter leave in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter leave !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Special thanks for Mapeadores for beta test map ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hive complex will explode in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

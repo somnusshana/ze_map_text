@@ -688,8 +688,4 @@
 	{
 		"chi"		"** **"
 	}
-	">> PLAYER HAS CHOSEN: RAVINE <<"
-	{
-		"chi"		"** **"
-	}
 }

@@ -144,4 +144,24 @@
 	{
 		"chi"		"** **"
 	}
+	"[Music] Yu_asahina vs. orangentle - HAELEQUIN"
+	{
+		"chi"		"** **"
+	}
+	"[Music] eXceed3rd - JADE PENETRATE"
+	{
+		"chi"		"** **"
+	}
+	"[Music] xi+norar2 - Dreadnought"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Space princess heeman"
+	{
+		"chi"		"** **"
+	}
+	"[Music] XI - Freedom dive"
+	{
+		"chi"		"** **"
+	}
 }
