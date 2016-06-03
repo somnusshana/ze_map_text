@@ -27,6 +27,7 @@
 	"*** The door opens in 30 seconds ***"
 	{
 		"chi"		"**门在30秒后打开 **"
+		"DoorCountdown"		"30"
 	}
 	"*** The door opens in 10 seconds. Hold! ***"
 	{
@@ -39,6 +40,7 @@
 	"** Well done! The door will open in 15 seconds! **"
 	{
 		"chi"		"**干得漂亮!门在15秒后打开 **"
+		"DoorCountdown"		"15"
 	}
 	"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
 	{
@@ -55,6 +57,7 @@
 	"*** HOLD! The elevator will leave in 25 seconds! ***"
 	{
 		"chi"		"**电梯将在25秒后升起 **"
+		"DoorCountdown"		"25"
 	}
 	"** Tree placer has been picked up. Press +USE (E) to place a tree. **"
 	{
@@ -63,6 +66,7 @@
 	"*** Hold the bridge! The door opens in 20 seconds! ***"
 	{
 		"chi"		"**防御这座桥!门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"*** Activate one of the control pannels! ***"
 	{
@@ -71,10 +75,12 @@
 	"** Well done! The door opens in 20 seconds. RESIST!!! **"
 	{
 		"chi"		"**门将在20秒后打开 防御! **"
+		"DoorCountdown"		"20"
 	}
 	"** Hold! The door will open in 25 seconds! **"
 	{
 		"chi"		"**门将在25秒后打开 防御! **"
+		"DoorCountdown"		"25"
 	}
 	"** Only 5 seconds left! RESIST! **"
 	{
@@ -83,6 +89,7 @@
 	"** We have to hold this area for 40 seconds until the doors open! **"
 	{
 		"chi"		"**我们需要防守这里40秒 直到大门打开 **"
+		"DoorCountdown"		"40"
 	}
 	"** Keep defending! 15 seconds left! **"
 	{
@@ -107,18 +114,22 @@
 	"*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***"
 	{
 		"chi"		"**撤退!离电梯离开还有5秒 **"
+		"DoorCountdown"		"5"
 	}
 	"** Storage area door opening in 15 seconds. HOLD! **"
 	{
 		"chi"		"**离储存区舱门打开还有15秒 防御! **"
+		"DoorCountdown"		"15"
 	}
 	"** Hold a bit! The door will open in 15 seconds! **"
 	{
 		"chi"		"**防御! 门将在15秒后打开 **"
+		"DoorCountdown"		"15"
 	}
 	"** Hold 10 more seconds! The second doors will open soon!**"
 	{
 		"chi"		"**防御10秒! 第二扇门将在10秒后打开 **"
+		"DoorCountdown"		"10"
 	}
 	"** Zombie heal has been picked up. Press +USE (E) to activate.**"
 	{
@@ -135,6 +146,7 @@
 	"** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **"
 	{
 		"chi"		"**防守圣诞汽艇50秒 **"
+		"DoorCountdown"		"50"
 	}
 	"** RESIST! 30 SECONDS LEFT!!! **"
 	{
@@ -159,6 +171,7 @@
 	"** We have to hold this area for 60 seconds until the doors open! **"
 	{
 		"chi"		"**我们需要防守这里60秒 直到大门打开 **"
+		"DoorCountdown"		"60"
 	}
 	"** Keep defending! 30 seconds left! **"
 	{
@@ -175,6 +188,7 @@
 	"** Hold! The door opens in 20 seconds!!! **"
 	{
 		"chi"		"**防御!门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"** KEEP HOLDING! 5 MORE SECONDS!!! **"
 	{
@@ -183,6 +197,7 @@
 	"** Hold a bit! The door will open in 20 seconds! **"
 	{
 		"chi"		"**防御!门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"** DEFEND THE CHRISTMAS AIRBOAT! THE STAR OF THE NORTH IS FALLING! **"
 	{
@@ -199,6 +214,7 @@
 	"** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **"
 	{
 		"chi"		"**离任务将失败还有20秒 **"
+		"DoorCountdown"		"20"
 	}
 	"** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
 	{
@@ -223,6 +239,7 @@
 	"** Resist for 15 seconds! **"
 	{
 		"chi"		"**防御15秒 **"
+		"DoorCountdown"		"15"
 	}
 	"** LAST 5 SECONDS! KEEP HOLDING!!! **"
 	{
@@ -243,6 +260,7 @@
 	"** HOLD! The door is opening in 10 seconds! **"
 	{
 		"chi"		"**防御!门将在10秒后打开 **"
+		"DoorCountdown"		"10"
 	}
 	"** Resist! The doors will open in 10 seconds!!! **"
 	{
@@ -251,6 +269,7 @@
 	"** RESIST FOR 20 SECONDS! Help is on the way! **"
 	{
 		"chi"		"**防御20秒!增援已经在路上了 **"
+		"DoorCountdown"		"20"
 	}
 	"** Fall back! The hot air balloon is here!!! **"
 	{
@@ -262,7 +281,7 @@
 	}
 	"** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你不可能走到这一步…准备启示录！！ **"
 	}
 	"+++  MAP MADE BY GARGANTUA +++"
 	{
@@ -274,110 +293,113 @@
 	}
 	"** You have beaten easy mode... Lets see now how you do in MEDIUM! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经通过了简单的模式…现在让我们看看你该如何选择！ **"
 	}
 	"** ITS TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**太晚了！这船不及时！我们会死！ **"
 	}
 	"*** ZOMBIES DETECTED ON THE BALLOON - INVALID VICTORY!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在气球上发现僵尸 - 无效的胜利！！！ **"
 	}
 	"** CURRENT LEVEL: APOCALYPSE **"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：启示录 **"
 	}
 	"** The way is locked! Open the doors pressing the buttons at the control area! **"
 	{
-		"chi"		"** **"
+		"chi"		"**该方法已被锁定！打开控制区内的按钮！ **"
 	}
 	"** Systems activated! Doors opening in 10 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**系统激活！门10秒后打开！ **"
+		"DoorCountdown"		"10"
 	}
 	"** Hold! The doors will open in 15 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！门将在15秒后打开！ **"
+		"DoorCountdown"		"15"
 	}
 	"** The core is being deactivated... **"
 	{
-		"chi"		"** **"
+		"chi"		"**核心正在关闭 **"
 	}
 	"** The core has become unstable! The reactor will explode!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**核心开始不稳定！反应堆即将爆炸！！！ **"
 	}
 	"** We need to get into the safety bunker! Resist until the doors open!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要进入安全仓！直到门打开！！！ **"
 	}
 	"*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是我们最后一站！把僵尸打出去！！！ **"
 	}
 	"*** The door has locked! We need to resist until it keeps moving! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门已经被锁!我们需要抵抗,直到它移动! **"
 	}
 	"*** ALMOST THERE! KEEP DEFENDING!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**差不多了！防守！！！ **"
 	}
 	"** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **"
 	{
-		"chi"		"** **"
+		"chi"		"**难以置信!！！你已经通过了本关！下一轮投票将选择关卡！ **"
 	}
 	"** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **"
 	{
-		"chi"		"** **"
+		"chi"		"**当前关卡：选择你想玩的关卡 **"
 	}
 	"** Survive for 4 minutes to get to the vote level! **"
 	{
-		"chi"		"** **"
+		"chi"		"**生存4分钟，以获得选择关卡的资格！ **"
+		"DoorCountdown"		"240"
 	}
 	"** Only humans will be able to vote! **"
 	{
-		"chi"		"** **"
+		"chi"		"**只有人类能够选择关卡！ **"
 	}
 	"** Two minutes left! RESIST! **"
 	{
-		"chi"		"** **"
+		"chi"		"**剩下两分钟！守住！ **"
 	}
 	"** Just one minute! Keep it up! **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩一分钟！守住！ **"
 	}
 	"** LAST 30 SECONDS! HOLD THE LAST BIT! **"
 	{
-		"chi"		"** **"
+		"chi"		"**最后30秒！ **"
 	}
 	"** 15 SECONDS!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒 **"
 	}
 	"** RESIST! 5 SECONDS!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！5秒！ **"
 	}
 	"** Well done! Vote for the level you want to play! **"
 	{
-		"chi"		"** **"
+		"chi"		"**做得好！选择你想玩的关卡！ **"
 	}
 	"** If after 30 seconds no level has been selected the nuke will activate! **"
 	{
-		"chi"		"** **"
+		"chi"		"**如果30秒后没有选择关卡核武器将激活！ **"
 	}
 	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE EASY! **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择关卡！下一层将很容易！ **"
 	}
 	"** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择一个按钮，按下按钮！30秒核弹！ **"
 	}
 	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **"
 	{
-		"chi"		"** **"
+		"chi"		"**选择关卡！下一阶段将再次投票！ **"
 	}
 }
