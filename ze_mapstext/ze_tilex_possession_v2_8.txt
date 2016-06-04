@@ -8,4 +8,44 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Difficulty : Easy ***"
+	{
+		"chi"		"** **"
+	}
+	"For POSSESSION , Respected Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Map Support : Xquality  SHUFEN"
+	{
+		"chi"		"** **"
+	}
+	"Map Arranged by Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"Elivator leaving in: 3"
+	{
+		"chi"		"** **"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Tracks crashed ahead"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 5 seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Tram leaving in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
 }

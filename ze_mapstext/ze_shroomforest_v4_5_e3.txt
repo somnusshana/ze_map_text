@@ -8,4 +8,168 @@
 	{
 		"chi"		"** **"
 	}
+	"[Special Thanks to: Muro#[A] FT]"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		"** **"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	">> Fixed by Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: FLAT GRASS <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT TILL THAT WALL BREAKS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WALL IS BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Leaf 1 leaving in 7 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Leaf 2 leaving in 7 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> HOLD FOR 30 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 more seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> GO! GO! GO! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO Its an EVIL BUTTERFLY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 10 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: BIG TREE <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"chi"		"** **"
+	}
+	"*** GO GO GO!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	{
+		"chi"		"** **"
+	}
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
 }

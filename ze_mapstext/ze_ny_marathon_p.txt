@@ -340,4 +340,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** PACO! THERE IS UNA PARTY EN MY PANTALONES ***"
+	{
+		"chi"		"** **"
+	}
 }
