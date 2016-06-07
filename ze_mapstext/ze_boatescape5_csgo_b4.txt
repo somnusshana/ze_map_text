@@ -100,4 +100,16 @@
 	{
 		"chi"		"**Ω‰¡È±ª¥Ú∞‹£° **"
 	}
+	"*** APC is leaving ***"
+	{
+		"chi"		"** **"
+	}
+	"*** First pod disabled ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Second pod disabled ***"
+	{
+		"chi"		"** **"
+	}
 }

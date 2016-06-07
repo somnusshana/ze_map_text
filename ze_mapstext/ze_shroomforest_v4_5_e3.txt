@@ -172,4 +172,272 @@
 	{
 		"chi"		"** **"
 	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		"** **"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 15 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: HELL <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"chi"		"** **"
+	}
+	">> SECRET IS NOW OPEN <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		"** **"
+	}
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	{
+		"chi"		"** **"
+	}
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO!! ITS SATAN!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THROW GRENADES TO KILL IT EASIER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS PREPARING TO ATTACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS ATTACKING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEEP SHOOTING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"chi"		"** **"
+	}
+	">> WAIT FOR 10 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		"** **"
+	}
+	">> BOSSES ON LEVEL II <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING SEED ATTACK <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING FLAMETHROWER <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING WATER... SOMETHING <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING SOMETHING... FUNNY? <<"
+	{
+		"chi"		"** **"
+	}
+	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 30 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO!! ITS DRAGON!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"chi"		"** **"
+	}
+	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> You have succesfully saved Shroomforest <<"
+	{
+		"chi"		"** **"
+	}
+	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: CHOOSING LEVEL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU CAN CHOOSE LEVEL AND MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+	{
+		"chi"		"** **"
+	}
+	">> NUKE INCOMING IN 5 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: A NEW BEGINNING <<"
+	{
+		"chi"		"** **"
+	}
+	"*** THE ELEVATOR WILL FALL DOWN !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
+	{
+		"chi"		"** **"
+	}
+	">> IT LOOK LIKE A NEW PLACE ... <<"
+	{
+		"chi"		"** **"
+	}
+	">> A WILD PIKACHU IS WAITING FOR US !! <<"
+	{
+		"chi"		"** **"
+	}
+	">> CT GET OUT THE ELEVATOR AND FIGHT !! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DONT LET ANY ZOMBIE ENTER !! ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
+	{
+		"chi"		"** **"
+	}
+	">> GOOD JOB <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE GRID SHOULD START TO CLOSE <<"
+	{
+		"chi"		"** **"
+	}
+	">> You have succefully saved our new village <<"
+	{
+		"chi"		"** **"
+	}
 }
