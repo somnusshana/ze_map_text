@@ -60,7 +60,6 @@
 	"*** Door open in 10 seconds ***"
 	{
 		"chi"		"**大门10秒后开启**"
-		"DoorCountdown"		"10"
 	}
 	"*** DOOR OPEN FUCKING PIDARAS !!! GO GO GO !!! ***"
 	{
