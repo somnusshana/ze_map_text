@@ -479,4 +479,12 @@
 	{
 		"chi"		"**流浪者宫殿将在10秒后毁灭**"
 	}
+	"***Nael Van Durnas appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL HER***"
+	{
+		"chi"		"** **"
+	}
 }

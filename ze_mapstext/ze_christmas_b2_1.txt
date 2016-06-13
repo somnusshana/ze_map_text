@@ -249,4 +249,16 @@
 	{
 		"chi"		"** **"
 	}
+	">> You beat the map <<"
+	{
+		"chi"		"** **"
+	}
+	">> Congratulation <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map will reset <<"
+	{
+		"chi"		"** **"
+	}
 }

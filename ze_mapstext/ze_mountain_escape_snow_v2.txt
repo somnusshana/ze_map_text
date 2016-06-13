@@ -164,4 +164,40 @@
 	{
 		"chi"		"** **"
 	}
+	"[Music] Duke Nukem - Alien Reactor (Acid B)"
+	{
+		"chi"		"** **"
+	}
+	"***Train aboarded***"
+	{
+		"chi"		"** **"
+	}
+	"***Level Failed***"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Immediate Music - Electric Romeo"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Tatsh - IMAGE MATRIAL-(Version 0)"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Yooh - mariannE"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Panda Eyes & Teminite - High Score"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Das Beer Boot Featuring Hans Gratel"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Pissed Office Box(Norvaks Goa remix)"
+	{
+		"chi"		"** **"
+	}
 }

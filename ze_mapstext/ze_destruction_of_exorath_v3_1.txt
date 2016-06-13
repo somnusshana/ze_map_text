@@ -640,4 +640,116 @@
 	{
 		"chi"		"** **"
 	}
+	"** SONG PLAYING: TWO STEPS FROM HELL - FATAL FURY **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 35 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 25 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 15 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS ON HIS WAY **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS HERE ** GET IN **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS LEAVING IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS LEAVING NOW ** GET IN **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMANS WON ** YOU ROCK **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL LEVELS COMPLETE ** ACTIVATING BONUS **"
+	{
+		"chi"		"** **"
+	}
+	"** MAP MADE BY PURPZZ ** THANKS FOR PLAYING **"
+	{
+		"chi"		"** **"
+	}
+	"** BONUS MODE **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: HYBRID - KEEP IT IN THE FAMILY **"
+	{
+		"chi"		"** **"
+	}
+	"** GET READY TO VOTE **"
+	{
+		"chi"		"** **"
+	}
+	"** WELCOME TO THE VOTING SECTION **"
+	{
+		"chi"		"** **"
+	}
+	"** STAND ON THE PLATFORM FROM YOUR SELECTED CHOICE **"
+	{
+		"chi"		"** **"
+	}
+	"** THE MODE THAT WINS WILL BE PLAYED UNTIL MAP CHANGE **"
+	{
+		"chi"		"** **"
+	}
+	"** VOTING ENABLED **"
+	{
+		"chi"		"** **"
+	}
+	"** VOTING COMPLETE **"
+	{
+		"chi"		"** **"
+	}
+	"** IMPOSSIBLE MODE SELECTED **"
+	{
+		"chi"		"** **"
+	}
+	"** MASSIVE NUKE IN 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ZR ENABLED **"
+	{
+		"chi"		"** **"
+	}
+	"** MASSIVE NUKE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** MASSIVE NUKE IN 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** MASSIVE NUKE IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** IMPOSSIBLE MODE COMPLETE **"
+	{
+		"chi"		"** **"
+	}
+	"** BONUS ACTIVE ** RELOADING IMPOSSIBLE MODE **"
+	{
+		"chi"		"** **"
+	}
 }

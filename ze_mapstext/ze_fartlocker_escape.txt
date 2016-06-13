@@ -147,4 +147,8 @@
 	{
 		"chi"		"**墙于30秒后破碎**"
 	}
+	"***SecretTeleporter Activates in 12s***"
+	{
+		"chi"		"** **"
+	}
 }

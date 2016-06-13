@@ -112,4 +112,20 @@
 	{
 		"chi"		"** **"
 	}
+	"***OPENING POD DOORS***"
+	{
+		"chi"		"** **"
+	}
+	"***PODS LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***CLOSING POD DOORS***"
+	{
+		"chi"		"** **"
+	}
+	"***PODS ARE LEAVING***"
+	{
+		"chi"		"** **"
+	}
 }

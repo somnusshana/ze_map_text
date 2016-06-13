@@ -309,7 +309,7 @@
 	}
 	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
 	{
-		"chi"		"**巴哈姆特即将释放红终！！继续开火！！！**"
+		"chi"		"**巴哈姆特要放嘴炮啦！！！！开枪！！！！**"
 	}
 	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
 	{
