@@ -1063,7 +1063,7 @@
 	}
 	"ze_tilex_possession_v2_8"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀隧道"
 		"credit"		"400"
 	}
 	"ze_ancient_wrath_v1"
@@ -1099,7 +1099,7 @@
 	{
 		"chi"		"小鸡工厂之旅"
 	}
-	"ze_ffxiv_wanderers_palace_v2_2"
+	"ze_ffxiv_wanderers_palace_v2_8"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 		"credit"		"500"
@@ -1111,5 +1111,9 @@
 	"ze_starwars_v1_5"
 	{
 		"chi"		"星球大战"
+	}
+	"ze_pidaras_v1_4fix3_e3"
+	{
+		"chi"		"大♂屌♂图"
 	}
 }
