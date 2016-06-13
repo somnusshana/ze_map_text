@@ -51,7 +51,6 @@
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
 		"chi"		"**电梯1将在4秒后离开 **"
-		"DoorCountdown"		"4"
 	}
 	"Lab door 1 will open for zombies in 18 seconds"
 	{
@@ -64,12 +63,10 @@
 	"The gate 1 will open in 30 seconds"
 	{
 		"chi"		"**门1将在30秒后打开 **"
-		"DoorCountdown"		"30"
 	}
 	"The gate 2 will open in 30 seconds"
 	{
 		"chi"		"**门2将在30秒后打开 **"
-		"DoorCountdown"		"30"
 	}
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
@@ -90,7 +87,6 @@
 	"Hold this position for 6 seconds!!"
 	{
 		"chi"		"**守住这里，窗子将在6秒后打开 **"
-		"DoorCountdown"		"6"
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
@@ -112,7 +108,7 @@
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
-		"chi"		"**核弹将要发射.找到一个安全的掩体并躲在里面 **"
+		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
@@ -125,7 +121,6 @@
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
 		"chi"		"**电梯2将在9秒后离开 **"
-		"DoorCountdown"		"9"
 	}
 	"**Hold the place for 25 seconds**"
 	{
@@ -134,7 +129,7 @@
 	}
 	"***Break the spheres to escape***"
 	{
-		"chi"		"**赶紧打败那个蓝色的球体逃跑 **"
+		"chi"		"**赶紧打破中间的球体逃跑 **"
 	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
@@ -154,11 +149,11 @@
 	}
 	"Bloodsucker is watching you..."
 	{
-		"chi"		"**食尸鬼在注视着你...... **"
+		"chi"		"**吸血鬼在注视着你...... **"
 	}
 	"**Bloodsucker have been defeated**"
 	{
-		"chi"		"**食尸鬼被打败了 **"
+		"chi"		"**吸血鬼被打败了 **"
 	}
 	"**Your items got more power**"
 	{
@@ -225,7 +220,7 @@
 	}
 	"**NOW WE ARE READY TO GO**"
 	{
-		"chi"		"**现在我们已经准备好去 **"
+		"chi"		"**现在我们已经准备好 **"
 	}
 	"**Hold here for 25 seconds**"
 	{
@@ -250,7 +245,7 @@
 	}
 	"**You have defeated controller!!! Good job**"
 	{
-		"chi"		"**你已破坏控制装置！ 做得好 **"
+		"chi"		"**你打败了BOSS！ 做得好 **"
 	}
 	"**Now go away to the coast**"
 	{
@@ -323,27 +318,27 @@
 	}
 	"**SPIKEBALL GOT MAXIMUM POWER**"
 	{
-		"chi"		"**奶升级到最高级（奶可以增加到425血） **"
+		"chi"		"**奶升级到最高级 **"
 	}
 	"***THE BOSS HAS MAXIMUM HP***"
 	{
-		"chi"		"**BOSS的生命值得到大幅度提升 **"
+		"chi"		"**BOSS的生命值得到提升 **"
 	}
 	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
 	{
-		"chi"		"**风升级到最高级（风可以持续8秒 注意别飞妈） **"
+		"chi"		"**风升级到最高级 **"
 	}
 	"**NIGHTSTAR GOT MAXIMUM POWER**"
 	{
-		"chi"		"**减速升级到最高级（可以把在范围内的僵尸减速） **"
+		"chi"		"**减速升级到最高级 **"
 	}
 	"**FLASH GOT MAXIMUM POWER**"
 	{
-		"chi"		"**电升级到最高级（5秒后在电范围内的僵尸都将被炸死） **"
+		"chi"		"**电升级到最高级 **"
 	}
 	"**YOU HAVE FAILED**"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经失败了 **"
 	}
 	"**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
 	{
