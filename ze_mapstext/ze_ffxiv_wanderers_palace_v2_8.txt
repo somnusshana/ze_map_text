@@ -360,7 +360,7 @@
 	}
 	"***40 seconds to Activate Telepoter"
 	{
-		"chi"		"**电梯40秒后启动**"
+		"chi"		"**传送点40秒后激活**"
 		"DoorCountdown"		"40"
 	}
 	"***A player picked up White Mage Benediction***"
@@ -399,7 +399,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**暴风之翼（切刀向后跑）（记得按S好么？）**"
+		"chi"		"**暴风之翼（切刀向后跑）**"
 		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime died***"
@@ -444,7 +444,7 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**撼地（往两边跑）（你特喵在逗我？）**"
+		"chi"		"**撼地（躲避柱子）**"
 		"ico"		"icon_fire"
 	}
 	"***10 seconds***"
